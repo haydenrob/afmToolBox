@@ -1,0 +1,1900 @@
+"\?Force file list"
+"\Version: 0x09000103"
+"\Date: 09:11:15 AM Thu Oct 21 2021"
+"\Start context: FOL"
+"\Data length: 40960"
+"\Text: "
+"\History: "
+"\Navigator note: "
+"\Engage X Pos: "
+"\Engage Y Pos: "
+"\*Equipment list"
+"\Description: MultiMode 8"
+"\Microscope: MultiMode 8"
+"\Extender: None"
+"\Torsion: No"
+"\Vision: uEye UI148xLE-C #1"
+"\EC Pot: None"
+"\Scanner file: 10064evlr.scn"
+"\*Scanner list"
+"\Scanner type: AFM"
+"\Serial Number: EVLR"
+"\Piezo size: E"
+"\File name: 10064evlr.scn"
+"\Motor sensitivity factor: 4.22"
+"\Motor direction: Reverse"
+"\Allow rotation: Allow"
+"\Piezo cal: 440"
+"\X max: 440"
+"\Y max: 440"
+"\X sensitivity: 20.3129"
+"\X derate: 0.024831"
+"\X mag: 1.2"
+"\X mag1: 0.6"
+"\X arg: 2.5"
+"\Orthogonality: 0"
+"\Y sensitivity: 21.3395"
+"\Y derate: 0.0294063"
+"\Y mag: 1.2"
+"\Y mag1: 0.6"
+"\Y arg: 2.5"
+"\X slow sensitivity: 20.237"
+"\X slow derate: 0.0329141"
+"\Y fast sensitivity: 20.0053"
+"\Y fast derate: 0.0246562"
+"\X slow-fast coupling: 0.0586046"
+"\X slow-fast coupling derating: 3.26117e-005"
+"\Y slow-fast coupling: 0.051197"
+"\Y slow-fast coupling derating: 2.74398e-005"
+"\Fast cal freq: 1.99298"
+"\Slow cal freq: 3.89254"
+"\Xs-Yf coupling: 0.0112081"
+"\Xs-Yf coupling derating: 8.38547e-006"
+"\Ys-Xf coupling: 0.00788458"
+"\Ys-Xf coupling derating: -6.3188e-007"
+"\X offset sens: 30"
+"\Y offset sens: 30"
+"\Bias derate: 0"
+"\ClosedLoop x igain: 8"
+"\ClosedLoop y igain: 8"
+"\@Sens. Zsens: V 7.433000 nm/V"
+"\@Sens. CurrentSens: V 10.00000 nA/V"
+"\@Sens. SECPMSens: V 100.0000 mV/V"
+"\@Sens. Xsensor: V 1.000000 "
+"\@Sens. Ysensor: V 1.000000 "
+"\*Ciao scan list"
+"\Parameter select: Main"
+"\Operating mode: Force"
+"\Tip Serial Number: "
+"\Scan Size: 500 nm"
+"\X Offset: 150 nm"
+"\Y Offset: -350 nm"
+"\Rotate Ang.: 0"
+"\Stage X: 0"
+"\Stage Y: 0"
+"\Stage Z: 0"
+"\X round: 0"
+"\Samps/line: 256"
+"\Lines: 256"
+"\Y disable: Enabled"
+"\Aspect Ratio: 1:1"
+"\Bidirectional Scan: Disabled"
+"\Scan line shift: 0"
+"\Scan Rate: 0.996492"
+"\Dark Lift Delay: 300"
+"\CD Mode: Disabled"
+"\PrpGain: 0.5"
+"\IntGain: 0.5"
+"\PIDErr: 0.0152588"
+"\tappFilterCutoff: 100"
+"\dithFilterCutoff: 100"
+"\LocHighLowDistance: 200"
+"\SlopeOutOffset: 0.5"
+"\SlopeOutLimit: 0.5"
+"\PointLag: 100"
+"\RcrsvAvg: 100"
+"\AvTipState: 100"
+"\microstepSize: 5"
+"\zxRatio: 10"
+"\dataStepAdj: 1"
+"\debugData: Standard"
+"\Amplitude X: 0"
+"\Amplitude Y: 0"
+"\Phase X: 0"
+"\Phase Y: 0"
+"\spare0: 0"
+"\spare1: 0"
+"\spare2: 0"
+"\spare3: 0"
+"\spare4: 0"
+"\spare5: 0"
+"\Tip Velocity: 0.996492"
+"\Minimum scan rate: 0.1"
+"\Lift rate: 4"
+"\X drift: 0"
+"\Y drift: 0"
+"\Step XY size: 300"
+"\Cycles: 10"
+"\Step XY period: 0.005"
+"\Step size: 3"
+"\Units: Metric"
+"\Setpoint Units: Volts"
+"\Clear Buffer for new Scan Area: Yes"
+"\Color table: 2"
+"\Scope dualtrace: Dual"
+"\Auto X Sep: 0"
+"\Auto Y Sep: 0"
+"\Auto pattern: Linear"
+"\Auto number: 2"
+"\Capture direction: Up"
+"\Capture prelines: 50"
+"\Engage Setpoint: 0.85"
+"\Min int. gain: 10"
+"\Parameter Update Retract: Disabled"
+"\Parameter Update FB: Off"
+"\Capture mode : Single"
+"\Gain Normalization: None"
+"\Gain Factor: 1"
+"\Initial Setpoint: 30"
+"\Potential Feedback: Off"
+"\Potential Feedback Inter: Off"
+"\Frequency Feedback: Off"
+"\Frequency Feedback Inter: Off"
+"\Potential Type: Off"
+"\Potential Type Inter: Off"
+"\Freq. Control: Automatic"
+"\Freq. Control Inter: Automatic"
+"\Drive feedback: Disabled"
+"\Drive time: 0"
+"\Drive setpoint: 1"
+"\Drive gain: 80"
+"\Start size: 13199.8 nm"
+"\Pass 2 size: 10000 nm"
+"\Pass 3 size: 5000 nm"
+"\Pass 4 size: 2000 nm"
+"\Feature scan angle: 0"
+"\Feature Scan rate: 1"
+"\Feature step size: 0.138889"
+"\Feature setpoint: 0.8"
+"\Feature threshold: 2000"
+"\Pass delay: 5"
+"\Z offset: 0"
+"\Z tolerance: 3237.22"
+"\Engage X offset: 0 nm"
+"\Engage Y offset: 0 nm"
+"\Engage step size: 0.138889"
+"\Engage Z sens.: 12.5"
+"\Engage Z avg.: 10"
+"\Engage Z delay: 0.5"
+"\Height engage: Disabled"
+"\Extended Current sens: 1 pA/V"
+"\PF Extended Current sens: 100 pA/V"
+"\Bias limit: 12 V"
+"\AFM Current Sensitivity: 1 nA/V"
+"\SECPM sens: 100 mV/V"
+"\Current range: 200 nA"
+"\Generic amp sens: 1 V/A"
+"\Z Range: 11.3144"
+"\Strip chart : Disabled"
+"\Strip Chart Rate: 500"
+"\Strip Chart Size: 100"
+"\XY Closed Loop: Off"
+"\OptoXY Do Linear: Off"
+"\Z Closed Loop: Off"
+"\Analog2 High Voltage: 0"
+"\Analog22 High Voltage: 0"
+"\Output 1 Data Type: Off"
+"\Output 2 Data Type: Off"
+"\Meter display ctrl.: Hidden"
+"\Meter Display Mode: Vertical/Horiz"
+"\Stop motor: Disabled"
+"\Display level: 127"
+"\XY Feedback Control: Off"
+"\Show Thermal Tune Button: Both"
+"\Show HSDC Button: Both"
+"\Show Point & Shoot Button: Both"
+"\Show Potential Controls: Neither"
+"\Show Frame Rate Control: Hidden"
+"\Torsional Freq: 950"
+"\Torsional Q: 1000"
+"\Sample Rate: 10"
+"\Sample Points: 128"
+"\Cycles to Average: 32"
+"\Harmonics To Correct: 1"
+"\Max Harmonics: 20"
+"\Force Data Points: 64"
+"\Calculation Period: 60"
+"\Interaction Time: 0.24"
+"\Invert Torsional: Yes"
+"\Invert Vertical: Yes"
+"\Unload Fit Region: 0.7"
+"\Lift Height: 35.2796"
+"\Sync Distance: 137.833"
+"\Sync Distance New: 0"
+"\Peak Force Engage Setpoint: 0.15"
+"\Top Fit Region: 0.3"
+"\Peak Force Amplitude: 100"
+"\QNM Calibration: DefaultByZ"
+"\Peak Force Max Amplitude: 150"
+"\Min Force Detection Method: Threshold Crossing"
+"\Fluid Cell: No"
+"\Medium: Fluid"
+"\Deformation Fit Region: 0.98"
+"\Tip Radius: 0.999"
+"\Sample Poisson's Ratio: 0.3"
+"\Tip Half Angle: 0.314159"
+"\Include Adhesion Force: Yes"
+"\Min Force Fit Boundary: 20"
+"\Max Force Fit Boundary: 80"
+"\Modulus Fit Model: Hertzian (Spherical)"
+"\ScanAsyst Setup: Allow"
+"\ScanAsyst Auto Control: On"
+"\ScanAsyst Auto Gain: On"
+"\ScanAsyst Auto Setpoint: On"
+"\ScanAsyst Auto Scan Rate: On"
+"\ScanAsyst Auto Z Limit: On"
+"\ScanAsyst Noise Threshold: 1"
+"\ScanAsyst AutoConfig Frames: 1"
+"\Scan Target Threshold: 0.005"
+"\Scan Acceptable Threshold: 0.1"
+"\Scan Max Optimizing Time: 30"
+"\Perfusion Cell Temperature: "
+"\FalseDefl Scan DitheringBits: 3"
+"\Scan Single Frame Number: 1"
+"\Idle Depolarize Warning Time: 7200"
+"\Idle Depolarize Withdraw Time: 18000"
+"\Idle Depolarize Threshold: 0.05"
+"\Auto Adjust Rounding: No"
+"\Peak Current Average Region: 1"
+"\I2C Test: Off"
+"\PFT Freq: 2 KHz"
+"\Tip Drive Noise Threshold: 0.2"
+"\Tip Drive PFT Amplitude: 100"
+"\Sync Distance 2K: 0"
+"\Sync Distance 1K: 0"
+"\Sync Distance 0.5K: 0"
+"\Sync Distance 0.25K: 0"
+"\Sync Distance 4K: 0"
+"\Sync Distance 8K: 0"
+"\Sync Distance 2K New: 0"
+"\Sync Distance 1K New: 0"
+"\Sync Distance 0.5K New: 0"
+"\Sync Distance 0.25K New: 0"
+"\Sync Distance 4K New: 0"
+"\Sync Distance 8K New: 0"
+"\ScanAsyst Min. Setpoint: 0.02"
+"\PeakForce Capture: Never"
+"\Reduced Z Delay: 2"
+"\Z Auto Center Boundary: 0"
+"\@InterleaveList: S [InterleaveOffMode] "Disabled""
+"\@LinearizeList: S [LinearizeOffMode] "modeLinearizeOff""
+"\@Meter Display: S [] "Off While Scanning""
+"\@FPGA Z Feedback: S [] "On""
+"\@MicroscopeList: S [AFMMode] "Contact""
+"\@LP Deflection: S [] "Enabled""
+"\@LP TM Deflection: S [] "Enabled""
+"\@LP Current: S [] "Enabled""
+"\@LP Vertical Deflection: S [] "Enabled""
+"\@Low Pass Frequency: S [] "Enabled""
+"\@LP Friction: S [] "Enabled""
+"\@LP TM Friction: S [] "Enabled""
+"\@PicoAnglerPollOnOff: S [PicoAnglerPollOff] "Disabled""
+"\@ThermalTuneMaxFreq: S [ThermalTuneData500K] "1 - 100 KHz""
+"\@TipBiasCntrlList: S [TipBiasCntrlGround] "Ground""
+"\@Sample Bias Control: S [] "Ground""
+"\@HSADCMuxOnOff: S [HSADCMuxOff] "modeHSADCMuxOff""
+"\@HsdcChanADataType: S [HsdcDataTypeDeflection] "Vertical Deflection""
+"\@HsdcChanBDataType: S [HsdcDataTypeLateral] "Lateral Deflection""
+"\@FastScan List: S [FastScanOff] "Disabled""
+"\@FastZFeedback List: S [DigitalZFastScan] "Digital""
+"\@TR Mode: S [] "Disabled""
+"\@VerticalGainControlList: S [] "Disabled""
+"\@SCM Feedback: S [] """
+"\@4:HsdcChanCDataType: S [HsdcDataTypeOff] "Off""
+"\@3:HsdcChanCDataType: S [HsdcDataTypeOff] "Off""
+"\@4:HsdcChanDDataType: S [HsdcDataTypeHeight] "Height""
+"\@3:HsdcChanDDataType: S [HsdcDataTypeOff] "Off""
+"\@4:HsdcTriggerChan: S [HsdcDataTypeHeight] "Height""
+"\@3:HsdcTriggerChan: S [HsdcDataTypeHeight] "Height""
+"\@4:SPMFeedbackList: S [SPMFb] "Deflection""
+"\@3:SPMFeedbackList: S [SPMFb] "Deflection""
+"\@4:DDS1RoutingTappingMode: S [] "Null""
+"\@5:DDS1RoutingTappingMode: S [] "Null""
+"\@4:DDS1RoutingFastScanAsystMode: S [] """
+"\@5:DDS1RoutingFastScanAsystMode: S [] """
+"\@4:Drive1Routing: S [] "Null""
+"\@3:Drive1Routing: S [] "Null""
+"\@4:Drive1Monitor: S [] "Not Available""
+"\@3:Drive1Monitor: S [] "Not Available""
+"\@4:MainLockInEnableContactMode: S [LockIn1Disabled] "Disabled""
+"\@3:MainLockInEnableContactMode: S [LockIn1Disabled] "Disabled""
+"\@4:MainLockInEnableFastScanAsystMode: S [] """
+"\@5:MainLockInEnableFastScanAsystMode: S [] """
+"\@4:MainLockInEnableNonContactMode: S [] """
+"\@5:MainLockInEnableNonContactMode: S [] """
+"\@4:LockIn1SourceTappingMode: S [] "Disabled""
+"\@5:LockIn1SourceTappingMode: S [] "Vertical""
+"\@4:LockIn1SourceFastScanAsystMode: S [] "Disabled""
+"\@5:LockIn1SourceFastScanAsystMode: S [] """
+"\@4:MainLockInSource: S [] "Disabled""
+"\@3:MainLockInSource: S [] "Disabled""
+"\@4:Zmod: S [] """
+"\@5:Zmod: S [] """
+"\@4:LateralGainControl: S [LateralGainDisabled] "Disabled""
+"\@3:LateralGainControl: S [LateralGainDisabled] "Disabled""
+"\@2:InputFbList: S [] """
+"\@3:InputFbList: S [] """
+"\@4:TR Mode: S [] "Disabled""
+"\@5:TR Mode: S [] "Disabled""
+"\@4:TRCouplingCheck: S [] """
+"\@5:TRCouplingCheck: S [] """
+"\@4:LockIn2DDS2Enable: S [LockIn2Disabled] "Disabled""
+"\@3:LockIn2DDS2Enable: S [LockIn2Disabled] "Disabled""
+"\@4:DDS2HarmonicList: S [] "1""
+"\@5:DDS2HarmonicList: S [] "1""
+"\@4:LockIn2Source: S [] "Disabled""
+"\@3:LockIn2Source: S [] "Disabled""
+"\@4:Drive2Routing: S [] "Null""
+"\@3:Drive2Routing: S [] "Null""
+"\@4:Drive2Monitor: S [] "Not Available""
+"\@3:Drive2Monitor: S [] "Not Available""
+"\@4:PRLockInTypeList: S [] """
+"\@5:PRLockInTypeList: S [] """
+"\@4:PiezoACBiasCtrlList: S [] """
+"\@5:PiezoACBiasCtrlList: S [] """
+"\@4:VerticalGainControlList: S [] "Enabled""
+"\@5:VerticalGainControlList: S [] "Enabled""
+"\@4:SCM Feedback: S [] """
+"\@5:SCM Feedback: S [] """
+"\@4:TUNAList: S [TUNAOffMode] "Disabled""
+"\@5:TUNAList: S [TUNAOffMode] "Disabled""
+"\@4:Drive3RoutingSoftHarmoniX: S [] """
+"\@5:Drive3RoutingSoftHarmoniX: S [] """
+"\@4:Drive3Routing: S [] "Null""
+"\@3:Drive3Routing: S [] "Null""
+"\@4:Drive3Monitor: S [] "Not Available""
+"\@3:Drive3Monitor: S [] "Not Available""
+"\@4:LockIn3EnableList: S [LockIn3Enabled] "Enabled""
+"\@3:LockIn3EnableList: S [LockIn3Disabled] "Disabled""
+"\@4:LockIn3SourceSoftHarmoniX: S [] "Disabled""
+"\@5:LockIn3SourceSoftHarmoniX: S [] "Vertical""
+"\@4:LockIn3SourceNonSoftHarmoniX: S [] "Disabled""
+"\@3:LockIn3SourceNonSoftHarmoniX: S [] "Disabled""
+"\@Sens. DeflSens: V 52.95198 nm/V"
+"\@Sens. AmplSens: V 1.000000 "
+"\@Sens. DeflectionIn1BSens: V 1.000000 "
+"\@Sens. FVForceSens: V 1.000000 nN/Arb"
+"\@Sens. FVModulusSens: V 1.000000 Pa/Arb"
+"\@Sens. FVLogModulusSens: V 1.000000 log(Pa)/log(Arb)"
+"\@Sens. FVStiffnessSens: V 1.000000 N/m*Arb"
+"\@Sens. ECBiasSens: V 1000.000 mV/V"
+"\@Sens. AFMSetFastScanSens: V 1.000000 V/V"
+"\@Sens. ZsensSens: V 906.4730 nm/V"
+"\@Sens. ZPicoSens: V 1000.000 nm/V"
+"\@Sens. LSPRDataSensitivity: V 1.000000 "
+"\@Sens. LSPRAmplitudeSensitivity: V 1.000000 "
+"\@Sens. HSPRDataSensitivity: V 1.000000 "
+"\@Sens. HSPRAmplitudeSensitivity: V 1.000000 "
+"\@Sens. tunaSens: V 10.00000 pA/V"
+"\@Sens. biassens: V 1.000000 V/V"
+"\@Sens. testsens: V 1.000000 V/V"
+"\@Sens. Amplitude Error: V 1.000000 "
+"\@Sens. Phase: V 1.000000 "
+"\@Sens. Phase Error: V 1.000000 "
+"\@Sens. Friction: V 1.000000 "
+"\@Sens. TM Deflection: V 1.000000 "
+"\@Sens. TM Friction: V 1.000000 "
+"\@Sens. Inphase: V 1.000000 "
+"\@Sens. Quadrature: V 1.000000 "
+"\@Sens. Amplitude1: V 1.000000 "
+"\@Sens. Raw Deflection: V 1.000000 "
+"\@Sens. Raw Deflection Gain: V 1.000000 "
+"\@Sens. Counter 1: V 1.000000 "
+"\@Sens. Counter 2: V 1.000000 "
+"\@Sens. Freq. 1: V 1.000000 "
+"\@Sens. Freq. 2: V 1.000000 "
+"\@Sens. Fast Z Analog: V 1.000000 "
+"\@Sens. Fast Z: V 1.000000 "
+"\@Sens. Fast RMS: V 1.000000 "
+"\@Sens. Fast Deflection Analog: V 1.000000 "
+"\@Sens. Fast Deflection Error: V 1.000000 "
+"\@Sens. Frequency: V 1.000000 "
+"\@Sens. Potential: V 1.000000 "
+"\@Sens. Potential (HV): V 1.000000 "
+"\@Sens. dCdZ: V 1.000000 "
+"\@Sens. TR Amplitude: V 1.000000 "
+"\@Sens. TR Amplitude Error: V 1.000000 "
+"\@Sens. TR Phase: V 1.000000 "
+"\@Sens. Amplitude2: V 1.000000 "
+"\@Sens. HS PR Phase: V 1.000000 "
+"\@Sens. dC/dV Amplitude: V 1.000000 "
+"\@Sens. dC/dV Amplitude Error: V 1.000000 "
+"\@Sens. dC/dV I: V 1.000000 "
+"\@Sens. dC/dV Q: V 1.000000 "
+"\@Sens. dC/dV Phase: V 1.000000 "
+"\@Sens. Feedback Bias: V 1.000000 "
+"\@Sens. Log(Resistance): V 1.000000 "
+"\@Sens. Input1: V 1.000000 "
+"\@Sens. Input2: V 1.000000 "
+"\@Sens. Input3: V 1.000000 "
+"\@Sens. DriveAmplitude3Sens: V 265.9800 nm/V"
+"\@Sens. ForceDeflSens: V 0.8333300 "
+"\@Sens. ForceSens: V 1.000000 "
+"\@Sens. DissipationSens: V 1.000000 "
+"\@Sens. DeformationSens: V 1402.500 nm/V"
+"\@Sens. StiffnessSens: V 1.000000 "
+"\@Sens. LogStiffnessSens: V 1.000000 "
+"\@Sens. SneddonModulusSens: V 1.000000 "
+"\@Sens. LogSneddonModulusSens: V 1.000000 "
+"\@Offset PotentialInputOffset: V [Sens. Potential] (0.0003051758 V/LSB)       0 V"
+"\@Sample period: V (0.1000000 us/LSB) 10.00000 us"
+"\@Z center: V [Sens. Zsens] (0.006713867 V/LSB) 55.00000 V"
+"\@1:ZLimit: V [Sens. Zsens] (0.006713867 V/LSB) 440.0000 V"
+"\@1:ZLimitRamp: V [Sens. Zsens] (0.006713867 V/LSB) 330.0000 V"
+"\@1:ForceLimit: V [Sens. ForceSens] (0.06250000 Arb/LSB) 256.0000 Arb"
+"\@1:DissipationLimit: V [Sens. DissipationSens] (0.06250000 Arb/LSB) 16.00000 Arb"
+"\@1:DeformationLimit: V [Sens. DeformationSens] (0.0000610352 V/LSB) 0.2000000 V"
+"\@1:StiffnessLimit: V [Sens. StiffnessSens] (0.06250000 Arb/LSB) 128.0000 Arb"
+"\@1:LogStiffnessLimit: V [Sens. LogStiffnessSens] (0.0004882813 log(Arb)/LSB) 32.00000 log(Arb)"
+"\@1:SneddonModulusLimit: V [Sens. SneddonModulusSens] (0.06250000 Arb/LSB) 128.0000 Arb"
+"\@1:LogSneddonModulusLimit: V [Sens. LogSneddonModulusSens] (0.0004882813 log(Arb)/LSB) 32.00000 log(Arb)"
+"\@1:FVModulusLimit: V [Sens. FVModulusSens] (1525879 Arb/LSB) 3000000000 Arb"
+"\@1:LogFVModulusLimit: V [Sens. FVLogModulusSens] (0.0004882813 log(Arb)/LSB) 3.200000 log(Arb)"
+"\@1:FVForceLimit: V [Sens. FVForceSens] (0.01525879 Arb/LSB) 1.000000 Arb"
+"\@1:FVStiffnessLimit: V [Sens. FVStiffnessSens] (0.01525879 Arb/LSB) 10.00000 Arb"
+"\@1:AmplitudeLimit1: V (0.0000009313 mV/LSB) 2000.000 mV"
+"\@1:TRAmplitudeLimit: V (0.0000009313 mV/LSB) 2500.000 mV"
+"\@1:SCMAmplitudeLimit: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:AmplitudeLimit1LockIn1and2: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:AmplitudeLimit1LockIn1: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:AmplitudeLimit1LockIn2: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:DeflectionLimitLockIn3LSADC1: V (0.0000000057 V/LSB) 24.57600 V"
+"\@2:DeflectionLimit: V (0.0000000057 V/LSB) 24.57600 V"
+"\@2:TMDeflectionLimitLockIn3LSADC1: V (0.0000000057 V/LSB) 24.57600 V"
+"\@2:TMDeflectionLimit: V (0.0000000057 V/LSB) 24.57600 V"
+"\@2:HSADC2GainLockIn2and1: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:HSADC2GainLockIn2: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:HSADC2GainLockIn1: V (0.0000009313 mV/LSB) 4000.000 mV"
+"\@2:LSADC2Gain: V (0.0000000057 V/LSB) 24.57600 V"
+"\@2:LSADC9Gain: V (0.0000000057 V/LSB) 24.57600 V"
+"\@Lift Start Height: V [Sens. Zsens] (0.006713765 V/LSB)       0 V"
+"\@Lift Scan Height: V [Sens. Zsens] (0.006713765 V/LSB) 4.506534 V"
+"\@Drive height: V [Sens. Zsens] (0.006713765 V/LSB)       0 V"
+"\@2:AFMSetDeflection: V [Sens. DeflSens] (0.0003051746 V/LSB) 2.000000 V"
+"\@3:AFMSetDeflection: V [Sens. DeflSens] (0.0003051746 V/LSB) 0.5000000 V"
+"\@2:TMSetAmplitude: V [Sens. AmplSens] (0.01525879 mV/LSB) 357.7896 mV"
+"\@3:TMSetAmplitude: V [Sens. AmplSens] (0.01525879 mV/LSB)       0 mV"
+"\@2:TMSetDeflection: V [Sens. DeflSens] (0.001220702 V/LSB)       0 V"
+"\@3:TMSetDeflection: V [Sens. DeflSens] (0.001220702 V/LSB)       0 V"
+"\@2:TMSetFastScan: V (0.0003662109 V/LSB)       0 V"
+"\@3:TMSetFastScan: V (0.0003662109 V/LSB)       0 V"
+"\@2:AFMSetFastScanAnalog: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V"
+"\@3:AFMSetFastScanAnalog: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V"
+"\@2:AFMSetFastScanDigital: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V"
+"\@3:AFMSetFastScanDigital: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V"
+"\@2:STMSetCurrent: V [Sens. CurrentSens] (0.0003750000 V/LSB) 0.1000000 V"
+"\@3:STMSetCurrent: V [Sens. CurrentSens] (0.0003750000 V/LSB) 10.00000 V"
+"\@2:TRSetAmplitude: V (0.01525879 mV/LSB) 270.0000 mV"
+"\@3:TRSetAmplitude: V (0.01525879 mV/LSB) 270.0000 mV"
+"\@2:SetTRVertDefl: V (0.0003662109 V/LSB)       0 V"
+"\@3:SetTRVertDefl: V (0.0003662109 V/LSB)       0 V"
+"\@2:SECPMSetPotential: V [Sens. SECPMSens] (0.0003750000 V/LSB) 2.000000 V"
+"\@3:SECPMSetPotential: V [Sens. SECPMSens] (0.0003750000 V/LSB) 2.000000 V"
+"\@2:TMSetPhase: V (0.005493164 º/LSB)       0 º"
+"\@3:TMSetPhase: V (0.005493164 º/LSB)       0 º"
+"\@2:DigitalSetPoint: V [Sens. DeflectionIn1BSens] (0.0003750000 V/LSB) 0.2500000 V"
+"\@3:DigitalSetPoint: V [Sens. DeflectionIn1BSens] (0.0003750000 V/LSB) 0.2500000 V"
+"\@2:TRSetPhase: V (0.005493164 º/LSB)       0 º"
+"\@3:TRSetPhase: V (0.005493164 º/LSB)       0 º"
+"\@2:SoftHarmoniXSetpoint: V [Sens. ForceDeflSens] (0.0003750000 V/LSB)       0 V"
+"\@3:SoftHarmoniXSetpoint: V [Sens. ForceDeflSens] (0.0003750000 V/LSB)       0 V"
+"\@2:NanoTrenchSetPoint: V (0.0003750000 V/LSB)       0 V"
+"\@3:NanoTrenchSetPoint: V (0.0003750000 V/LSB)       0 V"
+"\@2:Sample Bias: V (0.3051758 mV/LSB)       0 mV"
+"\@3:Sample Bias: V (0.3051758 mV/LSB)       0 mV"
+"\@2:Tip Bias: V (0.0003662109 V/LSB)       0 V"
+"\@3:Tip Bias: V (0.0003662109 V/LSB)       0 V"
+"\@2:Analog2: V (0.0003662109 V/LSB) -10.00000 V"
+"\@3:Analog2: V (0.0003662109 V/LSB)       0 V"
+"\@2:CantFrequency: V (0.0000116415 kHz/LSB) 1000.000 kHz"
+"\@3:CantFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:CantFrequencyContactMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:CantFrequencyContactMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:CantDrive: V (0.3051758 mV/LSB) 122.3760 mV"
+"\@3:CantDrive: V (0.3051758 mV/LSB)       0 mV"
+"\@2:CantDriveContactMode: V (0.3051758 mV/LSB)       0 mV"
+"\@3:CantDriveContactMode: V (0.3051758 mV/LSB)       0 mV"
+"\@2:CantDriveNulled: V (0.3051758 mV/LSB)       0 mV"
+"\@3:CantDriveNulled: V (0.3051758 mV/LSB)       0 mV"
+"\@2:DriveDCOffsetTappingMode: V (0.0003051758 V/LSB)       0 V"
+"\@3:DriveDCOffsetTappingMode: V (0.0003051758 V/LSB)       0 V"
+"\@2:DriveDCOffsetNonTapping: V (0.0003051758 V/LSB)       0 V"
+"\@3:DriveDCOffsetNonTapping: V (0.0003051758 V/LSB)       0 V"
+"\@2:DriveDCOffsetFastScanAsyst: V (0.0003051758 V/LSB)       0 V"
+"\@3:DriveDCOffsetFastScanAsyst: V (0.0003051758 V/LSB)       0 V"
+"\@2:ReferenceFrequencyTappingMode: V (0.0000116415 kHz/LSB) 1000.000 kHz"
+"\@3:ReferenceFrequencyTappingMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:ReferenceFrequency1: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:ReferenceFrequency1: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:CantPhase: V (0.005493164 º/LSB) -144.3384 º"
+"\@3:CantPhase: V (0.005493164 º/LSB)       0 º"
+"\@2:CantPhaseContactMode: V (0.005493164 º/LSB)       0 º"
+"\@3:CantPhaseContactMode: V (0.005493164 º/LSB)       0 º"
+"\@2:LockInBW1: V (0.001000000 kHz/LSB) 42.50000 kHz"
+"\@3:LockInBW1: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@2:LockInBW1ContactMode: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@3:LockInBW1ContactMode: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@2:TRCantileverFrequency: V (0.0000116415 kHz/LSB) 1000.000 kHz"
+"\@3:TRCantileverFrequency: V (0.0000116415 kHz/LSB) 1000.000 kHz"
+"\@2:ReferenceFrequencyTRMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:ReferenceFrequencyTRMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:TROnAnalog3: V (0.0003051758 V/LSB) 10.00000 V"
+"\@3:TROnAnalog3: V (0.0003051758 V/LSB) 10.00000 V"
+"\@2:ReferenceFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:ReferenceFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:ReferenceFrequency2Harmonic: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:ReferenceFrequency2Harmonic: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:DrivePhase2: V (0.005493164 º/LSB)       0 º"
+"\@3:DrivePhase2: V (0.005493164 º/LSB)       0 º"
+"\@2:LockIn2BW: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@3:LockIn2BW: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@2:LockIn2BWHarmonic: V (0.001000000 kHz/LSB) 0.2110000 kHz"
+"\@3:LockIn2BWHarmonic: V (0.001000000 kHz/LSB) 0.2110000 kHz"
+"\@2:DriveFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:DriveFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:DriveAmplitude2: V (0.3051758 mV/LSB)       0 mV"
+"\@3:DriveAmplitude2: V (0.3051758 mV/LSB)       0 mV"
+"\@2:Drive2 DC Offset: V (0.0003051758 V/LSB)       0 V"
+"\@3:Drive2 DC Offset: V (0.0003051758 V/LSB)       0 V"
+"\@2:PRLowSpeedLockinBW: V (0.001000000 kHz/LSB) 0.3000000 kHz"
+"\@3:PRLowSpeedLockinBW: V (0.001000000 kHz/LSB) 0.3000000 kHz"
+"\@2:PRLowSpeedDriveAmplitude: V (0.6103516 mV/LSB) 2000.000 mV"
+"\@3:PRLowSpeedDriveAmplitude: V (0.6103516 mV/LSB) 2000.000 mV"
+"\@2:PRLowSpeedDriveFrequency: V (0.0000001164 kHz/LSB) 15.00000 kHz"
+"\@3:PRLowSpeedDriveFrequency: V (0.0000001164 kHz/LSB) 15.00000 kHz"
+"\@2:PRLowSpeedDrivePhase: V (0.005493164 º/LSB)       0 º"
+"\@3:PRLowSpeedDrivePhase: V (0.005493164 º/LSB)       0 º"
+"\@2:PRHighSpeedLockinBW: V (0.001000000 kHz/LSB) 0.7500000 kHz"
+"\@3:PRHighSpeedLockinBW: V (0.001000000 kHz/LSB) 0.7500000 kHz"
+"\@2:PRHighSpeedDriveAmplitude: V (0.3051758 mV/LSB) 2000.000 mV"
+"\@3:PRHighSpeedDriveAmplitude: V (0.3051758 mV/LSB) 2000.000 mV"
+"\@2:PRHighSpeedDriveFrequency: V (0.0000116415 kHz/LSB) 60.00000 kHz"
+"\@3:PRHighSpeedDriveFrequency: V (0.0000116415 kHz/LSB) 60.00000 kHz"
+"\@2:PRHighSpeedDrivePhase: V (0.005493164 º/LSB)       0 º"
+"\@3:PRHighSpeedDrivePhase: V (0.005493164 º/LSB)       0 º"
+"\@2:ACBiasAmpl: V (0.3051758 mV/LSB)       0 mV"
+"\@3:ACBiasAmpl: V (0.3051758 mV/LSB)       0 mV"
+"\@2:BiasFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@3:BiasFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz"
+"\@2:SCMLockInBW: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@3:SCMLockInBW: V (0.001000000 kHz/LSB) 0.5000000 kHz"
+"\@2:SCMLockInPhase: V (0.005493164 º/LSB)       0 º"
+"\@3:SCMLockInPhase: V (0.005493164 º/LSB)       0 º"
+"\@2:DCBias: V (0.0003051758 V/LSB)       0 V"
+"\@3:DCBias: V (0.0003051758 V/LSB)       0 V"
+"\@2:Capacitance Sensor Frequency: V (0.03204346 MHz/LSB) 880.0000 MHz"
+"\@3:Capacitance Sensor Frequency: V (0.03204346 MHz/LSB) 880.0000 MHz"
+"\@2:SCMIgain: V (0.001525879 1/LSB) 10.00000 "
+"\@3:SCMIgain: V (0.001525879 1/LSB) 10.00000 "
+"\@2:SCMPgain: V (0.001525879 1/LSB) 10.00000 "
+"\@3:SCMPgain: V (0.001525879 1/LSB) 10.00000 "
+"\@2:SCMFeedbackSetpoint: V (0.06103516 mV/LSB) 200.0000 mV"
+"\@3:SCMFeedbackSetpoint: V (0.06103516 mV/LSB) 200.0000 mV"
+"\@2:SCMFeedbackUpperLimit: V (0.0003051758 V/LSB) 6.000000 V"
+"\@3:SCMFeedbackUpperLimit: V (0.0003051758 V/LSB) 6.000000 V"
+"\@2:DC Test Bias: V [Sens. testsens] (0.0003051758 V/LSB)       0 V"
+"\@3:DC Test Bias: V [Sens. testsens] (0.0003051758 V/LSB)       0 V"
+"\@2:DC Sample Bias: V [Sens. biassens] (0.0003051758 V/LSB)       0 V"
+"\@3:DC Sample Bias: V [Sens. biassens] (0.0003051758 V/LSB)       0 V"
+"\@2:Bias Upper Limit: V (0.0003051758 V/LSB)       0 V"
+"\@3:Bias Upper Limit: V (0.0003051758 V/LSB)       0 V"
+"\@2:Bias Lower Limit: V (0.0003051758 V/LSB)       0 V"
+"\@3:Bias Lower Limit: V (0.0003051758 V/LSB)       0 V"
+"\@2:Feedback Igain: V (0.01525879 1/LSB)       0 "
+"\@3:Feedback Igain: V (0.01525879 1/LSB)       0 "
+"\@2:TunaFeedbackSetpoint: V [Sens. tunaSens] (0.0003750000 V/LSB)       0 V"
+"\@3:TunaFeedbackSetpoint: V [Sens. tunaSens] (0.0003750000 V/LSB)       0 V"
+"\@2:DriveFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 1.953125 kHz"
+"\@3:DriveFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@2:DriveFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@3:DriveFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@2:DriveAmplitude3SoftHarmoniX: V [Sens. DriveAmplitude3Sens] (0.3051758 mV/LSB) 375.9681 mV"
+"\@3:DriveAmplitude3SoftHarmoniX: V [Sens. DriveAmplitude3Sens] (0.3051758 mV/LSB)       0 mV"
+"\@2:DriveAmplitude3NonSoftHarmoniX: V (0.3051758 mV/LSB)       0 mV"
+"\@3:DriveAmplitude3NonSoftHarmoniX: V (0.3051758 mV/LSB)       0 mV"
+"\@2:DriveAmplitude3NonSoftHarmoniX2X: V (0.6103516 mV/LSB)       0 mV"
+"\@3:DriveAmplitude3NonSoftHarmoniX2X: V (0.6103516 mV/LSB)       0 mV"
+"\@2:Drive3 DC Offset: V (0.0003051758 V/LSB)       0 V"
+"\@3:Drive3 DC Offset: V (0.0003051758 V/LSB)       0 V"
+"\@2:ReferenceFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 1.953125 kHz"
+"\@3:ReferenceFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@2:ReferenceFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@3:ReferenceFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz"
+"\@2:LockIn3BWSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz"
+"\@3:LockIn3BWSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz"
+"\@2:LockIn3BWNonSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz"
+"\@3:LockIn3BWNonSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz"
+"\@2:Analog3: V (0.0003051758 V/LSB)       0 V"
+"\@3:Analog3: V (0.0003051758 V/LSB)       0 V"
+"\@2:Analog4: V (0.0003051758 V/LSB)       0 V"
+"\@3:Analog4: V (0.0003051758 V/LSB)       0 V"
+"\@2:TR Drive Amplitude: V (0.3051758 mV/LSB)       0 mV"
+"\@3:TR Drive Amplitude: V (0.3051758 mV/LSB)       0 mV"
+"\@2:TR Lock-In Phase: V (0.005493164 º/LSB)       0 º"
+"\@3:TR Lock-In Phase: V (0.005493164 º/LSB)       0 º"
+"\@2:DrivePhase3NonSoftHarmoniX: V (0.005493164 º/LSB)       0 º"
+"\@3:DrivePhase3NonSoftHarmoniX: V (0.005493164 º/LSB)       0 º"
+"\@2:SSRMSampleBias: V (0.0003051758 V/LSB)       0 V"
+"\@3:SSRMSampleBias: V (0.0003051758 V/LSB)       0 V"
+"\@2:TMFbIgain: V (0.3125000 1/LSB) 0.5000000 "
+"\@3:TMFbIgain: V (0.3125000 1/LSB) 0.5000000 "
+"\@2:TMFbPgain: V (0.3125000 1/LSB) 5.000000 "
+"\@3:TMFbPgain: V (0.3125000 1/LSB) 5.000000 "
+"\@2:AFMFbIgain: V (0.3125000 1/LSB) 25.00000 "
+"\@3:AFMFbIgain: V (0.3125000 1/LSB) 2.000000 "
+"\@2:AFMFbPgain: V (0.3125000 1/LSB) 50.00000 "
+"\@3:AFMFbPgain: V (0.3125000 1/LSB) 5.000000 "
+"\@2:SoftHarmoniXFbIgain: V (0.3125000 1/LSB) 10.00000 "
+"\@3:SoftHarmoniXFbIgain: V (0.3125000 1/LSB) 10.00000 "
+"\@2:SoftHarmoniXFbPgain: V (0.3125000 1/LSB)       0 "
+"\@3:SoftHarmoniXFbPgain: V (0.3125000 1/LSB)       0 "
+"\@2:STMFbIgain: V (0.3125000 1/LSB) 1.000000 "
+"\@3:STMFbIgain: V (0.3125000 1/LSB) 1.000000 "
+"\@2:STMFbPgain: V (0.3125000 1/LSB) 2.000000 "
+"\@3:STMFbPgain: V (0.3125000 1/LSB)       0 "
+"\@2:STMESFbIgain: V (0.3125000 1/LSB) 10.00000 "
+"\@3:STMESFbIgain: V (0.3125000 1/LSB) 10.00000 "
+"\@2:STMESFbPgain: V (0.3125000 1/LSB)       0 "
+"\@3:STMESFbPgain: V (0.3125000 1/LSB)       0 "
+"\@2:DriveAmplitude4SoftHarmoniX: V (0.3051758 mV/LSB) 102.8442 mV"
+"\@3:DriveAmplitude4SoftHarmoniX: V (0.3051758 mV/LSB)       0 mV"
+"\@2:BaselineAvgPtsSoftHarmoniX: V (1.000000 1/LSB) 20.00000 "
+"\@3:BaselineAvgPtsSoftHarmoniX: V (1.000000 1/LSB) 32.00000 "
+"\@2:DeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz"
+"\@3:DeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz"
+"\@2:DeflLowPassFrequencySoftHarmoniX: V (0.001000000 kHz/LSB) 40.00000 kHz"
+"\@3:DeflLowPassFrequencySoftHarmoniX: V (0.001000000 kHz/LSB) 40.00000 kHz"
+"\@2:FricLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz"
+"\@3:FricLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz"
+"\@2:TMDeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz"
+"\@3:TMDeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz"
+"\@2:CurrentLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz"
+"\@3:CurrentLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz"
+"\@2:OtherModesLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz"
+"\@3:OtherModesLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz"
+"\@2:TMFricLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz"
+"\@3:TMFricLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz"
+"\@2:FastZTMFbIgain: V (0.03125000 1/LSB) 1.000000 "
+"\@3:FastZTMFbIgain: V (0.03125000 1/LSB) 1.000000 "
+"\@2:FastZTMFbPgain: V (0.03125000 1/LSB) 1.000000 "
+"\@3:FastZTMFbPgain: V (0.03125000 1/LSB)       0 "
+"\@2:InputIgain: V (0.001525879 1/LSB) 10.00000 "
+"\@3:InputIgain: V (0.001525879 1/LSB) 10.00000 "
+"\@2:InputPgain: V (0.001525879 1/LSB) 10.00000 "
+"\@3:InputPgain: V (0.001525879 1/LSB) 10.00000 "
+"\@2:TRFbIgain: V (0.3125000 1/LSB) 0.5000000 "
+"\@3:TRFbIgain: V (0.3125000 1/LSB) 0.5000000 "
+"\@2:TRFbPgain: V (0.3125000 1/LSB) 5.000000 "
+"\@3:TRFbPgain: V (0.3125000 1/LSB) 5.000000 "
+"\@2:VertDeflLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz"
+"\@3:VertDeflLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz"
+"\@2:TRLockInBW1: V (0.001000000 kHz/LSB) 150.0000 kHz"
+"\@3:TRLockInBW1: V (0.001000000 kHz/LSB) 150.0000 kHz"
+"\@2:DrivePhase3SoftHarmoniX: V (0.005493164 º/LSB)       0 º"
+"\@3:DrivePhase3SoftHarmoniX: V (0.005493164 º/LSB)       0 º"
+"\@2:Output 1 Input Data: S [ImageOff] "Off""
+"\@2:Output 2 Input Data: S [ImageOff] "Off""
+"\@2:Output 1 Output Data: S [Analog3] "Analog3""
+"\@2:Output 2 Output Data: S [Analog3] "Analog3""
+"\@LogStiffnessOffset: V [Sens. LogStiffnessSens] (0.0004882813 log(Arb)/LSB)       0 log(Arb)"
+"\@LogSneddonModulusOffset: V [Sens. LogSneddonModulusSens] (0.0004882813 log(Arb)/LSB)       0 log(Arb)"
+"\*Ciao force list"
+"\Scan rate: 0.250401"
+"\Forward vel.: 67.3754"
+"\Reverse vel.: 67.3754"
+"\Samps/line: 1024 953"
+"\Samps/line, retrace: 1024"
+"\Ave lines: 1"
+"\Display mode: Both"
+"\Trigger mode: Relative"
+"\Rev. trigger mode: Off"
+"\Trig slope: Positive"
+"\Plot start: 0"
+"\Plot end: 1"
+"\Auto start: Disable"
+"\Auto offset: Off"
+"\Start mode: Calibrate"
+"\End mode: Retracted"
+"\User mode: Advanced"
+"\Ramp delay: 0"
+"\Reverse delay: 0"
+"\Indent setpoint: 0.5"
+"\X Rotate: 0"
+"\Scratch length: 100 nm"
+"\Scratch rate: 1"
+"\Scratch angle: 0"
+"\Size linked: Off"
+"\Lift height: 100"
+"\Drop height: 10"
+"\Columns: 15"
+"\Rows: 15"
+"\Column step: 50"
+"\Row step: 50"
+"\Capture: Enabled"
+"\XY Move Tip Pos: Retract"
+"\Volume offset: 0"
+"\force/line: 16"
+"\Samples / line: 16 0"
+"\Z direction: Retract"
+"\Z position: -32.616"
+"\Fast retrace: Disable"
+"\Center plot: Off"
+"\FV scan rate: 0.0311239"
+"\Tip factor: 0"
+"\True resonance: 0"
+"\Deflection Sensitivity Correction: 1.08"
+"\Tip type: 100W"
+"\Unit display: Metric"
+"\PF PGain	: 99.8779"
+"\PF ITime	: 1.00044"
+"\Linearization: Enabled"
+"\Closed Loop: Enabled"
+"\Polarity: Negative"
+"\Temperature (Celsius): 21"
+"\PSD Bin Width : 7.62939"
+"\Feedback type: None"
+"\Feedback counts: 0"
+"\Dark ramp: Disable"
+"\Dark ramp delay: 300"
+"\Gain Adjust for ZCL: 0.1"
+"\Ramp Mod Input: Off"
+"\Ramp Mod Sens: 10"
+"\PFT Feedback Type: Peak Force"
+"\PFT Deflection Setpoint: 0"
+"\PFT Deflection Igain: 50"
+"\PFT Deflection Pgain: 50"
+"\@Z scan start: V [Sens. Zsens] (0.006713867 V/LSB) 12.27698 V"
+"\@Z scan size: 279.436 nm"
+"\@Z step size: V [Sens. Zsens] (0.006713867 V/LSB)       0 V"
+"\@Sample period: V (0.1000000 us/LSB) 25.00000 us"
+"\@4:Image Data: Deflection Error"
+"\@4:Trig threshold Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB) 1.227527 V"
+"\@4:Trig rev. threshold Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:Threshold step Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:Ramp channel: Z"
+"\@4:Ramp size Zsweep: V [Sens. Zsens] (0.006713765 V/LSB) 134.5352 V"
+"\@4:Ramp offset Zsweep: V [Sens. Zsens] (0.006713765 V/LSB) 45.91008 V"
+"\@4:Ramp Begin Zsweep: V [Sens. Zsens] (0.006713765 V/LSB)       0 V"
+"\@4:Ramp End Zsweep: V [Sens. Zsens] (0.006713765 V/LSB)       0 V"
+"\@4:Feedback value Zsweep: V [Sens. Zsens] (0.006713765 V/LSB)       0 V"
+"\@4:Z display Zsweep: V [Sens. Zsens] (0.006713765 V/LSB) 13.81215 V"
+"\*Ciao force image list"
+"\Data offset: 40960"
+"\Data length: 4096"
+"\Bytes/pixel: 2"
+"\Start context: FOL"
+"\Data type: AFM"
+"\Data Type Description: "
+"\Do zoffder: 0"
+"\Note: "
+"\Plane fit: 0 0 0 0"
+"\Frame direction: Up"
+"\Capture start line: 0"
+"\Color Table Index: 12"
+"\Samps/line: 1024 953"
+"\Scan Line: Main"
+"\Realtime Planefit: Line"
+"\Offline Planefit: None"
+"\Z direction: Retract"
+"\Force display mode: Normal"
+"\Spring Constant: 0.1208"
+"\Separation Scale: 0"
+"\Force offset: 0"
+"\Z magnew force: 1"
+"\Invert: Normal"
+"\Time channel: 0"
+"\Force TMR: 5.116976e-010"
+"\Scope coupling: DC"
+"\Smoothing filter: 0"
+"\Graph function: i"
+"\STS I range: 15000"
+"\STS DLI/DLV range: 10"
+"\STS DLI/DV range: 10"
+"\STS DI/DV range: 10"
+"\STS Log(i) range: 10"
+"\Ave points: 1"
+"\Force Phase Offset: 0"
+"\Effective BW: 512"
+"\X Data Type: Ramp"
+"\@4:Image Data: Deflection Error"
+"\@Z magnify: 1"
+"\@4:Z scale: 132.38 nm"
+"\@4:Z offset: -41.1028 nm"
+"\@4:Z input offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:FV scale: 132.38 nm"
+"\@4:Volume offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:Ramp channel: Z"
+"\@Z scan size: 279.436 nm"
+"\@4:Ramp size: 1000 nm"
+"\@4:Ramp offset: V [Sens. Zsens] (0.006713765 V/LSB) 45.91008 V"
+"\@4:Ramp Begin: 0 nm"
+"\@4:Ramp End: 0 nm"
+"\@4:Z display: 102.666 nm"
+"\*Ciao force image list"
+"\Data offset: 40960"
+"\Data length: 4096"
+"\Bytes/pixel: 2"
+"\Start context: FOL"
+"\Data type: AFM"
+"\Data Type Description: "
+"\Do zoffder: 0"
+"\Note: "
+"\Plane fit: 0 0 0 0"
+"\Frame direction: Up"
+"\Capture start line: 0"
+"\Color Table Index: 12"
+"\Samps/line: 1024 953"
+"\Scan Line: Main"
+"\Realtime Planefit: Line"
+"\Offline Planefit: None"
+"\Z direction: Retract"
+"\Force display mode: Normal"
+"\Spring Constant: 0.1208"
+"\Separation Scale: 0"
+"\Force offset: 0"
+"\Z magnew force: 1"
+"\Invert: Normal"
+"\Time channel: 0"
+"\Force TMR: 5.116976e-010"
+"\Scope coupling: DC"
+"\Smoothing filter: 0"
+"\Graph function: i"
+"\STS I range: 15000"
+"\STS DLI/DLV range: 10"
+"\STS DLI/DV range: 10"
+"\STS DI/DV range: 10"
+"\STS Log(i) range: 10"
+"\Ave points: 1"
+"\Force Phase Offset: 0"
+"\Effective BW: 512"
+"\X Data Type: Ramp"
+"\@4:Image Data: Deflection Error"
+"\@Z magnify: 1"
+"\@4:Z scale: 132.38 nm"
+"\@4:Z offset: -41.1028 nm"
+"\@4:Z input offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:FV scale: 132.38 nm"
+"\@4:Volume offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V"
+"\@4:Ramp channel: Z"
+"\@Z scan size: 279.436 nm"
+"\@4:Ramp size: 1000 nm"
+"\@4:Ramp offset: V [Sens. Zsens] (0.006713765 V/LSB) 45.91008 V"
+"\@4:Ramp Begin: 0 nm"
+"\@4:Ramp End: 0 nm"
+"\@4:Z display: 102.666 nm"
+"\*Force file list end"
+Calc_Ramp_Ex_nm	Calc_Ramp_Rt_nm	Defl_V_Ex	Defl_V_Rt	
+0.000000e+000	9.990236e+002	-2.749500e+000	-1.528875e+000	
+9.765627e-001	9.980471e+002	-2.749125e+000	-1.548000e+000	
+1.953125e+000	9.970705e+002	-2.749500e+000	-1.566375e+000	
+2.929688e+000	9.960939e+002	-2.749875e+000	-1.586625e+000	
+3.906251e+000	9.951174e+002	-2.749500e+000	-1.606875e+000	
+4.882813e+000	9.941408e+002	-2.749875e+000	-1.623000e+000	
+5.859376e+000	9.931642e+002	-2.749875e+000	-1.640625e+000	
+6.835938e+000	9.921877e+002	-2.749500e+000	-1.659750e+000	
+7.812501e+000	9.912111e+002	-2.749500e+000	-1.679625e+000	
+8.789063e+000	9.902346e+002	-2.750250e+000	-1.696875e+000	
+9.765626e+000	9.892580e+002	-2.749500e+000	-1.714875e+000	
+1.074219e+001	9.882814e+002	-2.749875e+000	-1.732500e+000	
+1.171875e+001	9.873049e+002	-2.750625e+000	-1.750500e+000	
+1.269531e+001	9.863283e+002	-2.751375e+000	-1.768500e+000	
+1.367188e+001	9.853517e+002	-2.749875e+000	-1.785750e+000	
+1.464844e+001	9.843752e+002	-2.750250e+000	-1.803750e+000	
+1.562500e+001	9.833986e+002	-2.751375e+000	-1.820250e+000	
+1.660156e+001	9.824221e+002	-2.750625e+000	-1.838250e+000	
+1.757813e+001	9.814455e+002	-2.749875e+000	-1.856250e+000	
+1.855469e+001	9.804689e+002	-2.749875e+000	-1.871625e+000	
+1.953125e+001	9.794924e+002	-2.750250e+000	-1.888500e+000	
+2.050781e+001	9.785158e+002	-2.750250e+000	-1.906875e+000	
+2.148438e+001	9.775392e+002	-2.749875e+000	-1.924500e+000	
+2.246094e+001	9.765627e+002	-2.750250e+000	-1.940625e+000	
+2.343750e+001	9.755861e+002	-2.750250e+000	-1.955625e+000	
+2.441406e+001	9.746096e+002	-2.750625e+000	-1.973250e+000	
+2.539063e+001	9.736330e+002	-2.751375e+000	-1.989000e+000	
+2.636719e+001	9.726564e+002	-2.751000e+000	-2.005125e+000	
+2.734375e+001	9.716799e+002	-2.749125e+000	-2.022375e+000	
+2.832031e+001	9.707033e+002	-2.751000e+000	-2.037375e+000	
+2.929688e+001	9.697267e+002	-2.750625e+000	-2.053875e+000	
+3.027344e+001	9.687502e+002	-2.749875e+000	-2.069625e+000	
+3.125000e+001	9.677736e+002	-2.749875e+000	-2.083875e+000	
+3.222657e+001	9.667971e+002	-2.751000e+000	-2.099625e+000	
+3.320313e+001	9.658205e+002	-2.751000e+000	-2.116875e+000	
+3.417969e+001	9.648439e+002	-2.750250e+000	-2.131875e+000	
+3.515625e+001	9.638674e+002	-2.750625e+000	-2.145750e+000	
+3.613282e+001	9.628908e+002	-2.752125e+000	-2.160375e+000	
+3.710938e+001	9.619142e+002	-2.750625e+000	-2.175000e+000	
+3.808594e+001	9.609377e+002	-2.751375e+000	-2.191875e+000	
+3.906250e+001	9.599611e+002	-2.752500e+000	-2.206875e+000	
+4.003907e+001	9.589846e+002	-2.751000e+000	-2.219625e+000	
+4.101563e+001	9.580080e+002	-2.751750e+000	-2.234625e+000	
+4.199219e+001	9.570314e+002	-2.751000e+000	-2.249250e+000	
+4.296875e+001	9.560549e+002	-2.751750e+000	-2.262375e+000	
+4.394532e+001	9.550783e+002	-2.751375e+000	-2.275500e+000	
+4.492188e+001	9.541017e+002	-2.751375e+000	-2.290500e+000	
+4.589844e+001	9.531252e+002	-2.752500e+000	-2.305875e+000	
+4.687500e+001	9.521486e+002	-2.751375e+000	-2.319000e+000	
+4.785157e+001	9.511721e+002	-2.752125e+000	-2.334000e+000	
+4.882813e+001	9.501955e+002	-2.751375e+000	-2.350500e+000	
+4.980469e+001	9.492189e+002	-2.751000e+000	-2.365500e+000	
+5.078125e+001	9.482424e+002	-2.752500e+000	-2.378625e+000	
+5.175782e+001	9.472658e+002	-2.751750e+000	-2.395125e+000	
+5.273438e+001	9.462892e+002	-2.751000e+000	-2.408250e+000	
+5.371094e+001	9.453127e+002	-2.751000e+000	-2.422500e+000	
+5.468750e+001	9.443361e+002	-2.752125e+000	-2.431125e+000	
+5.566407e+001	9.433596e+002	-2.751375e+000	-2.424750e+000	
+5.664063e+001	9.423830e+002	-2.752500e+000	-2.437875e+000	
+5.761719e+001	9.414064e+002	-2.752500e+000	-2.450250e+000	
+5.859375e+001	9.404299e+002	-2.750625e+000	-2.460750e+000	
+5.957032e+001	9.394533e+002	-2.751375e+000	-2.470500e+000	
+6.054688e+001	9.384767e+002	-2.751750e+000	-2.481000e+000	
+6.152344e+001	9.375002e+002	-2.752125e+000	-2.488500e+000	
+6.250000e+001	9.365236e+002	-2.750250e+000	-2.501250e+000	
+6.347657e+001	9.355471e+002	-2.751750e+000	-2.512500e+000	
+6.445313e+001	9.345705e+002	-2.753250e+000	-2.520375e+000	
+6.542970e+001	9.335939e+002	-2.751750e+000	-2.531625e+000	
+6.640626e+001	9.326174e+002	-2.751375e+000	-2.541750e+000	
+6.738282e+001	9.316408e+002	-2.751750e+000	-2.550375e+000	
+6.835938e+001	9.306642e+002	-2.752125e+000	-2.559375e+000	
+6.933595e+001	9.296877e+002	-2.751375e+000	-2.568375e+000	
+7.031251e+001	9.287111e+002	-2.751000e+000	-2.579250e+000	
+7.128907e+001	9.277346e+002	-2.753625e+000	-2.587125e+000	
+7.226563e+001	9.267580e+002	-2.752500e+000	-2.596125e+000	
+7.324220e+001	9.257814e+002	-2.751750e+000	-2.604375e+000	
+7.421876e+001	9.248049e+002	-2.752125e+000	-2.612625e+000	
+7.519532e+001	9.238283e+002	-2.752125e+000	-2.619750e+000	
+7.617188e+001	9.228517e+002	-2.751375e+000	-2.626125e+000	
+7.714845e+001	9.218752e+002	-2.753250e+000	-2.634375e+000	
+7.812501e+001	9.208986e+002	-2.752125e+000	-2.638875e+000	
+7.910157e+001	9.199221e+002	-2.752875e+000	-2.646000e+000	
+8.007813e+001	9.189455e+002	-2.752500e+000	-2.653125e+000	
+8.105470e+001	9.179689e+002	-2.752500e+000	-2.659875e+000	
+8.203126e+001	9.169924e+002	-2.752500e+000	-2.667375e+000	
+8.300782e+001	9.160158e+002	-2.753625e+000	-2.673375e+000	
+8.398438e+001	9.150392e+002	-2.751375e+000	-2.679375e+000	
+8.496095e+001	9.140627e+002	-2.752125e+000	-2.686125e+000	
+8.593751e+001	9.130861e+002	-2.752500e+000	-2.691000e+000	
+8.691407e+001	9.121096e+002	-2.751750e+000	-2.692875e+000	
+8.789063e+001	9.111330e+002	-2.752500e+000	-2.699250e+000	
+8.886720e+001	9.101564e+002	-2.752875e+000	-2.702625e+000	
+8.984376e+001	9.091799e+002	-2.752500e+000	-2.707500e+000	
+9.082032e+001	9.082033e+002	-2.752125e+000	-2.713125e+000	
+9.179688e+001	9.072267e+002	-2.751750e+000	-2.718375e+000	
+9.277345e+001	9.062502e+002	-2.752125e+000	-2.722500e+000	
+9.375001e+001	9.052736e+002	-2.751750e+000	-2.725125e+000	
+9.472657e+001	9.042971e+002	-2.751000e+000	-2.729250e+000	
+9.570313e+001	9.033205e+002	-2.752125e+000	-2.734500e+000	
+9.667970e+001	9.023439e+002	-2.752125e+000	-2.739375e+000	
+9.765626e+001	9.013674e+002	-2.751750e+000	-2.742750e+000	
+9.863282e+001	9.003908e+002	-2.752125e+000	-2.748000e+000	
+9.960938e+001	8.994142e+002	-2.752500e+000	-2.751750e+000	
+1.005859e+002	8.984377e+002	-2.752875e+000	-2.755875e+000	
+1.015625e+002	8.974611e+002	-2.751750e+000	-2.760000e+000	
+1.025391e+002	8.964846e+002	-2.751375e+000	-2.764500e+000	
+1.035156e+002	8.955080e+002	-2.752500e+000	-2.768625e+000	
+1.044922e+002	8.945314e+002	-2.752125e+000	-2.771625e+000	
+1.054688e+002	8.935549e+002	-2.753250e+000	-2.778375e+000	
+1.064453e+002	8.925783e+002	-2.751375e+000	-2.772375e+000	
+1.074219e+002	8.916017e+002	-2.751750e+000	-2.776875e+000	
+1.083984e+002	8.906252e+002	-2.752500e+000	-2.781750e+000	
+1.093750e+002	8.896486e+002	-2.751000e+000	-2.786250e+000	
+1.103516e+002	8.886721e+002	-2.751750e+000	-2.779500e+000	
+1.113281e+002	8.876955e+002	-2.750250e+000	-2.779875e+000	
+1.123047e+002	8.867189e+002	-2.752500e+000	-2.784000e+000	
+1.132813e+002	8.857424e+002	-2.751750e+000	-2.787750e+000	
+1.142578e+002	8.847658e+002	-2.751375e+000	-2.793000e+000	
+1.152344e+002	8.837892e+002	-2.752125e+000	-2.796375e+000	
+1.162109e+002	8.828127e+002	-2.753625e+000	-2.800125e+000	
+1.171875e+002	8.818361e+002	-2.751000e+000	-2.803875e+000	
+1.181641e+002	8.808596e+002	-2.753625e+000	-2.808750e+000	
+1.191406e+002	8.798830e+002	-2.752500e+000	-2.814375e+000	
+1.201172e+002	8.789064e+002	-2.751750e+000	-2.782500e+000	
+1.210938e+002	8.779299e+002	-2.751000e+000	-2.774625e+000	
+1.220703e+002	8.769533e+002	-2.751750e+000	-2.775375e+000	
+1.230469e+002	8.759767e+002	-2.751375e+000	-2.778750e+000	
+1.240234e+002	8.750002e+002	-2.751375e+000	-2.778375e+000	
+1.250000e+002	8.740236e+002	-2.752875e+000	-2.775375e+000	
+1.259766e+002	8.730471e+002	-2.751375e+000	-2.776125e+000	
+1.269531e+002	8.720705e+002	-2.751375e+000	-2.775000e+000	
+1.279297e+002	8.710939e+002	-2.752500e+000	-2.776500e+000	
+1.289063e+002	8.701174e+002	-2.751000e+000	-2.776875e+000	
+1.298828e+002	8.691408e+002	-2.750625e+000	-2.775750e+000	
+1.308594e+002	8.681642e+002	-2.751375e+000	-2.776125e+000	
+1.318360e+002	8.671877e+002	-2.751000e+000	-2.773875e+000	
+1.328125e+002	8.662111e+002	-2.752875e+000	-2.775750e+000	
+1.337891e+002	8.652346e+002	-2.752875e+000	-2.776500e+000	
+1.347656e+002	8.642580e+002	-2.751750e+000	-2.777250e+000	
+1.357422e+002	8.632814e+002	-2.751000e+000	-2.778375e+000	
+1.367188e+002	8.623049e+002	-2.751375e+000	-2.779875e+000	
+1.376953e+002	8.613283e+002	-2.751375e+000	-2.774625e+000	
+1.386719e+002	8.603517e+002	-2.751000e+000	-2.773125e+000	
+1.396485e+002	8.593752e+002	-2.751750e+000	-2.772750e+000	
+1.406250e+002	8.583986e+002	-2.750625e+000	-2.770500e+000	
+1.416016e+002	8.574221e+002	-2.751000e+000	-2.769375e+000	
+1.425781e+002	8.564455e+002	-2.749875e+000	-2.770500e+000	
+1.435547e+002	8.554689e+002	-2.751000e+000	-2.771250e+000	
+1.445313e+002	8.544924e+002	-2.751375e+000	-2.772000e+000	
+1.455078e+002	8.535158e+002	-2.750625e+000	-2.772750e+000	
+1.464844e+002	8.525392e+002	-2.751000e+000	-2.773125e+000	
+1.474610e+002	8.515627e+002	-2.750625e+000	-2.775375e+000	
+1.484375e+002	8.505861e+002	-2.751000e+000	-2.775750e+000	
+1.494141e+002	8.496096e+002	-2.750625e+000	-2.773125e+000	
+1.503906e+002	8.486330e+002	-2.751000e+000	-2.772000e+000	
+1.513672e+002	8.476564e+002	-2.750250e+000	-2.769750e+000	
+1.523438e+002	8.466799e+002	-2.750625e+000	-2.769000e+000	
+1.533203e+002	8.457033e+002	-2.751000e+000	-2.768625e+000	
+1.542969e+002	8.447267e+002	-2.750250e+000	-2.770875e+000	
+1.552735e+002	8.437502e+002	-2.749500e+000	-2.770875e+000	
+1.562500e+002	8.427736e+002	-2.749500e+000	-2.771625e+000	
+1.572266e+002	8.417971e+002	-2.750250e+000	-2.772375e+000	
+1.582031e+002	8.408205e+002	-2.750625e+000	-2.773500e+000	
+1.591797e+002	8.398439e+002	-2.749125e+000	-2.773500e+000	
+1.601563e+002	8.388674e+002	-2.749500e+000	-2.773125e+000	
+1.611328e+002	8.378908e+002	-2.749125e+000	-2.773500e+000	
+1.621094e+002	8.369142e+002	-2.749500e+000	-2.775000e+000	
+1.630860e+002	8.359377e+002	-2.749125e+000	-2.776125e+000	
+1.640625e+002	8.349611e+002	-2.750250e+000	-2.775375e+000	
+1.650391e+002	8.339846e+002	-2.749875e+000	-2.767875e+000	
+1.660156e+002	8.330080e+002	-2.749125e+000	-2.766750e+000	
+1.669922e+002	8.320314e+002	-2.749875e+000	-2.768250e+000	
+1.679688e+002	8.310549e+002	-2.750625e+000	-2.768250e+000	
+1.689453e+002	8.300783e+002	-2.750625e+000	-2.767875e+000	
+1.699219e+002	8.291017e+002	-2.749500e+000	-2.768625e+000	
+1.708985e+002	8.281252e+002	-2.751000e+000	-2.767500e+000	
+1.718750e+002	8.271486e+002	-2.748000e+000	-2.768250e+000	
+1.728516e+002	8.261721e+002	-2.749125e+000	-2.768625e+000	
+1.738281e+002	8.251955e+002	-2.749875e+000	-2.768625e+000	
+1.748047e+002	8.242189e+002	-2.749875e+000	-2.769000e+000	
+1.757813e+002	8.232424e+002	-2.748375e+000	-2.762250e+000	
+1.767578e+002	8.222658e+002	-2.750250e+000	-2.761500e+000	
+1.777344e+002	8.212892e+002	-2.750625e+000	-2.761500e+000	
+1.787110e+002	8.203127e+002	-2.748375e+000	-2.761875e+000	
+1.796875e+002	8.193361e+002	-2.750250e+000	-2.761875e+000	
+1.806641e+002	8.183596e+002	-2.749125e+000	-2.762250e+000	
+1.816406e+002	8.173830e+002	-2.750625e+000	-2.763375e+000	
+1.826172e+002	8.164064e+002	-2.751750e+000	-2.762625e+000	
+1.835938e+002	8.154299e+002	-2.749500e+000	-2.763375e+000	
+1.845703e+002	8.144533e+002	-2.750250e+000	-2.763750e+000	
+1.855469e+002	8.134767e+002	-2.749875e+000	-2.764875e+000	
+1.865235e+002	8.125002e+002	-2.749875e+000	-2.764875e+000	
+1.875000e+002	8.115236e+002	-2.749125e+000	-2.765250e+000	
+1.884766e+002	8.105471e+002	-2.749125e+000	-2.766000e+000	
+1.894531e+002	8.095705e+002	-2.751000e+000	-2.767875e+000	
+1.904297e+002	8.085939e+002	-2.749875e+000	-2.768250e+000	
+1.914063e+002	8.076174e+002	-2.749875e+000	-2.767500e+000	
+1.923828e+002	8.066408e+002	-2.748000e+000	-2.763000e+000	
+1.933594e+002	8.056642e+002	-2.749875e+000	-2.761125e+000	
+1.943360e+002	8.046877e+002	-2.749875e+000	-2.759250e+000	
+1.953125e+002	8.037111e+002	-2.748375e+000	-2.760375e+000	
+1.962891e+002	8.027346e+002	-2.751000e+000	-2.761125e+000	
+1.972656e+002	8.017580e+002	-2.750625e+000	-2.761500e+000	
+1.982422e+002	8.007814e+002	-2.749875e+000	-2.761500e+000	
+1.992188e+002	7.998049e+002	-2.749500e+000	-2.761125e+000	
+2.001953e+002	7.988283e+002	-2.749875e+000	-2.760375e+000	
+2.011719e+002	7.978517e+002	-2.749500e+000	-2.758125e+000	
+2.021485e+002	7.968752e+002	-2.749125e+000	-2.758500e+000	
+2.031250e+002	7.958986e+002	-2.749500e+000	-2.758875e+000	
+2.041016e+002	7.949221e+002	-2.749125e+000	-2.757750e+000	
+2.050781e+002	7.939455e+002	-2.749500e+000	-2.758125e+000	
+2.060547e+002	7.929689e+002	-2.749875e+000	-2.759250e+000	
+2.070313e+002	7.919924e+002	-2.749500e+000	-2.759250e+000	
+2.080078e+002	7.910158e+002	-2.749875e+000	-2.758125e+000	
+2.089844e+002	7.900392e+002	-2.750625e+000	-2.759625e+000	
+2.099610e+002	7.890627e+002	-2.749875e+000	-2.760750e+000	
+2.109375e+002	7.880861e+002	-2.749500e+000	-2.760375e+000	
+2.119141e+002	7.871096e+002	-2.751000e+000	-2.759625e+000	
+2.128906e+002	7.861330e+002	-2.748375e+000	-2.760750e+000	
+2.138672e+002	7.851564e+002	-2.750625e+000	-2.761125e+000	
+2.148438e+002	7.841799e+002	-2.749875e+000	-2.761500e+000	
+2.158203e+002	7.832033e+002	-2.749875e+000	-2.760375e+000	
+2.167969e+002	7.822267e+002	-2.750250e+000	-2.762625e+000	
+2.177735e+002	7.812502e+002	-2.750625e+000	-2.761500e+000	
+2.187500e+002	7.802736e+002	-2.751000e+000	-2.762250e+000	
+2.197266e+002	7.792971e+002	-2.749875e+000	-2.762625e+000	
+2.207031e+002	7.783205e+002	-2.749500e+000	-2.761125e+000	
+2.216797e+002	7.773439e+002	-2.749500e+000	-2.762250e+000	
+2.226563e+002	7.763674e+002	-2.750250e+000	-2.763375e+000	
+2.236328e+002	7.753908e+002	-2.751000e+000	-2.763375e+000	
+2.246094e+002	7.744142e+002	-2.750625e+000	-2.761875e+000	
+2.255860e+002	7.734377e+002	-2.750250e+000	-2.764125e+000	
+2.265625e+002	7.724611e+002	-2.751000e+000	-2.764500e+000	
+2.275391e+002	7.714846e+002	-2.750625e+000	-2.763750e+000	
+2.285156e+002	7.705080e+002	-2.750625e+000	-2.762250e+000	
+2.294922e+002	7.695314e+002	-2.751375e+000	-2.757750e+000	
+2.304688e+002	7.685549e+002	-2.751000e+000	-2.755125e+000	
+2.314453e+002	7.675783e+002	-2.750625e+000	-2.756250e+000	
+2.324219e+002	7.666017e+002	-2.750625e+000	-2.756625e+000	
+2.333985e+002	7.656252e+002	-2.751000e+000	-2.755500e+000	
+2.343750e+002	7.646486e+002	-2.751375e+000	-2.755875e+000	
+2.353516e+002	7.636721e+002	-2.751000e+000	-2.757000e+000	
+2.363281e+002	7.626955e+002	-2.751750e+000	-2.756250e+000	
+2.373047e+002	7.617189e+002	-2.751375e+000	-2.756625e+000	
+2.382813e+002	7.607424e+002	-2.749875e+000	-2.757000e+000	
+2.392578e+002	7.597658e+002	-2.750250e+000	-2.757375e+000	
+2.402344e+002	7.587892e+002	-2.750250e+000	-2.755500e+000	
+2.412110e+002	7.578127e+002	-2.751000e+000	-2.756250e+000	
+2.421875e+002	7.568361e+002	-2.750250e+000	-2.756250e+000	
+2.431641e+002	7.558596e+002	-2.751375e+000	-2.755875e+000	
+2.441406e+002	7.548830e+002	-2.750625e+000	-2.755875e+000	
+2.451172e+002	7.539064e+002	-2.752125e+000	-2.757750e+000	
+2.460938e+002	7.529299e+002	-2.751000e+000	-2.757000e+000	
+2.470703e+002	7.519533e+002	-2.751750e+000	-2.757375e+000	
+2.480469e+002	7.509767e+002	-2.750625e+000	-2.758125e+000	
+2.490235e+002	7.500002e+002	-2.751750e+000	-2.756625e+000	
+2.500000e+002	7.490236e+002	-2.751000e+000	-2.756250e+000	
+2.509766e+002	7.480471e+002	-2.751000e+000	-2.756250e+000	
+2.519531e+002	7.470705e+002	-2.752125e+000	-2.757375e+000	
+2.529297e+002	7.460939e+002	-2.752125e+000	-2.757750e+000	
+2.539063e+002	7.451174e+002	-2.751750e+000	-2.756250e+000	
+2.548828e+002	7.441408e+002	-2.751750e+000	-2.757750e+000	
+2.558594e+002	7.431642e+002	-2.751375e+000	-2.756250e+000	
+2.568360e+002	7.421877e+002	-2.752125e+000	-2.758500e+000	
+2.578125e+002	7.412111e+002	-2.751000e+000	-2.757000e+000	
+2.587891e+002	7.402346e+002	-2.752500e+000	-2.757000e+000	
+2.597657e+002	7.392580e+002	-2.751000e+000	-2.755500e+000	
+2.607422e+002	7.382814e+002	-2.751000e+000	-2.756250e+000	
+2.617188e+002	7.373049e+002	-2.751375e+000	-2.755875e+000	
+2.626953e+002	7.363283e+002	-2.751750e+000	-2.755875e+000	
+2.636719e+002	7.353517e+002	-2.751750e+000	-2.756625e+000	
+2.646485e+002	7.343752e+002	-2.752125e+000	-2.757375e+000	
+2.656250e+002	7.333986e+002	-2.752125e+000	-2.757375e+000	
+2.666016e+002	7.324221e+002	-2.751750e+000	-2.758125e+000	
+2.675782e+002	7.314455e+002	-2.751375e+000	-2.758125e+000	
+2.685547e+002	7.304689e+002	-2.751750e+000	-2.758125e+000	
+2.695313e+002	7.294924e+002	-2.751750e+000	-2.757000e+000	
+2.705078e+002	7.285158e+002	-2.751375e+000	-2.757750e+000	
+2.714844e+002	7.275392e+002	-2.751750e+000	-2.756625e+000	
+2.724610e+002	7.265627e+002	-2.752500e+000	-2.758500e+000	
+2.734375e+002	7.255861e+002	-2.752500e+000	-2.758875e+000	
+2.744141e+002	7.246096e+002	-2.751375e+000	-2.758500e+000	
+2.753907e+002	7.236330e+002	-2.751750e+000	-2.758875e+000	
+2.763672e+002	7.226564e+002	-2.751750e+000	-2.759250e+000	
+2.773438e+002	7.216799e+002	-2.752125e+000	-2.758875e+000	
+2.783203e+002	7.207033e+002	-2.753250e+000	-2.759250e+000	
+2.792969e+002	7.197267e+002	-2.751000e+000	-2.758125e+000	
+2.802735e+002	7.187502e+002	-2.752125e+000	-2.760000e+000	
+2.812500e+002	7.177736e+002	-2.750625e+000	-2.759625e+000	
+2.822266e+002	7.167971e+002	-2.751375e+000	-2.758875e+000	
+2.832032e+002	7.158205e+002	-2.751375e+000	-2.759625e+000	
+2.841797e+002	7.148439e+002	-2.752125e+000	-2.760000e+000	
+2.851563e+002	7.138674e+002	-2.751375e+000	-2.760750e+000	
+2.861328e+002	7.128908e+002	-2.752875e+000	-2.760750e+000	
+2.871094e+002	7.119142e+002	-2.752875e+000	-2.761500e+000	
+2.880860e+002	7.109377e+002	-2.752125e+000	-2.762250e+000	
+2.890625e+002	7.099611e+002	-2.754000e+000	-2.761875e+000	
+2.900391e+002	7.089846e+002	-2.752125e+000	-2.762250e+000	
+2.910157e+002	7.080080e+002	-2.752500e+000	-2.761875e+000	
+2.919922e+002	7.070314e+002	-2.752500e+000	-2.760000e+000	
+2.929688e+002	7.060549e+002	-2.751000e+000	-2.759625e+000	
+2.939453e+002	7.050783e+002	-2.752125e+000	-2.759250e+000	
+2.949219e+002	7.041017e+002	-2.752500e+000	-2.759625e+000	
+2.958985e+002	7.031252e+002	-2.751375e+000	-2.760000e+000	
+2.968750e+002	7.021486e+002	-2.750625e+000	-2.761500e+000	
+2.978516e+002	7.011721e+002	-2.752125e+000	-2.760375e+000	
+2.988282e+002	7.001955e+002	-2.751750e+000	-2.760375e+000	
+2.998047e+002	6.992189e+002	-2.752125e+000	-2.761875e+000	
+3.007813e+002	6.982424e+002	-2.751375e+000	-2.760750e+000	
+3.017578e+002	6.972658e+002	-2.751375e+000	-2.760375e+000	
+3.027344e+002	6.962892e+002	-2.752500e+000	-2.761875e+000	
+3.037110e+002	6.953127e+002	-2.753250e+000	-2.761125e+000	
+3.046875e+002	6.943361e+002	-2.752500e+000	-2.761875e+000	
+3.056641e+002	6.933596e+002	-2.752125e+000	-2.761500e+000	
+3.066407e+002	6.923830e+002	-2.752125e+000	-2.763000e+000	
+3.076172e+002	6.914064e+002	-2.751000e+000	-2.761875e+000	
+3.085938e+002	6.904299e+002	-2.751750e+000	-2.764125e+000	
+3.095703e+002	6.894533e+002	-2.751375e+000	-2.765250e+000	
+3.105469e+002	6.884767e+002	-2.752500e+000	-2.764875e+000	
+3.115235e+002	6.875002e+002	-2.751750e+000	-2.766000e+000	
+3.125000e+002	6.865236e+002	-2.752500e+000	-2.766000e+000	
+3.134766e+002	6.855471e+002	-2.752500e+000	-2.767125e+000	
+3.144532e+002	6.845705e+002	-2.752875e+000	-2.768625e+000	
+3.154297e+002	6.835939e+002	-2.752500e+000	-2.766375e+000	
+3.164063e+002	6.826174e+002	-2.753250e+000	-2.767125e+000	
+3.173828e+002	6.816408e+002	-2.753625e+000	-2.769000e+000	
+3.183594e+002	6.806642e+002	-2.752500e+000	-2.770125e+000	
+3.193360e+002	6.796877e+002	-2.751000e+000	-2.769750e+000	
+3.203125e+002	6.787111e+002	-2.752875e+000	-2.769375e+000	
+3.212891e+002	6.777346e+002	-2.752125e+000	-2.770875e+000	
+3.222657e+002	6.767580e+002	-2.752125e+000	-2.770125e+000	
+3.232422e+002	6.757814e+002	-2.752875e+000	-2.760000e+000	
+3.242188e+002	6.748049e+002	-2.752125e+000	-2.753250e+000	
+3.251953e+002	6.738283e+002	-2.751750e+000	-2.751750e+000	
+3.261719e+002	6.728517e+002	-2.751375e+000	-2.753250e+000	
+3.271485e+002	6.718752e+002	-2.752125e+000	-2.752500e+000	
+3.281250e+002	6.708986e+002	-2.751375e+000	-2.754000e+000	
+3.291016e+002	6.699221e+002	-2.751375e+000	-2.752500e+000	
+3.300782e+002	6.689455e+002	-2.752125e+000	-2.753625e+000	
+3.310547e+002	6.679689e+002	-2.752125e+000	-2.753625e+000	
+3.320313e+002	6.669924e+002	-2.752875e+000	-2.752500e+000	
+3.330078e+002	6.660158e+002	-2.750250e+000	-2.752125e+000	
+3.339844e+002	6.650392e+002	-2.752500e+000	-2.752500e+000	
+3.349610e+002	6.640627e+002	-2.752125e+000	-2.753625e+000	
+3.359375e+002	6.630861e+002	-2.751375e+000	-2.752875e+000	
+3.369141e+002	6.621096e+002	-2.752500e+000	-2.752500e+000	
+3.378907e+002	6.611330e+002	-2.750250e+000	-2.752125e+000	
+3.388672e+002	6.601564e+002	-2.752125e+000	-2.752125e+000	
+3.398438e+002	6.591799e+002	-2.752875e+000	-2.752875e+000	
+3.408203e+002	6.582033e+002	-2.751375e+000	-2.752875e+000	
+3.417969e+002	6.572267e+002	-2.752125e+000	-2.751750e+000	
+3.427735e+002	6.562502e+002	-2.751375e+000	-2.752500e+000	
+3.437500e+002	6.552736e+002	-2.750625e+000	-2.753625e+000	
+3.447266e+002	6.542971e+002	-2.751000e+000	-2.754000e+000	
+3.457032e+002	6.533205e+002	-2.751000e+000	-2.752500e+000	
+3.466797e+002	6.523439e+002	-2.751000e+000	-2.753625e+000	
+3.476563e+002	6.513674e+002	-2.751000e+000	-2.752500e+000	
+3.486328e+002	6.503908e+002	-2.751000e+000	-2.752500e+000	
+3.496094e+002	6.494142e+002	-2.750625e+000	-2.754375e+000	
+3.505860e+002	6.484377e+002	-2.751750e+000	-2.753250e+000	
+3.515625e+002	6.474611e+002	-2.750625e+000	-2.752875e+000	
+3.525391e+002	6.464846e+002	-2.751000e+000	-2.753625e+000	
+3.535157e+002	6.455080e+002	-2.750250e+000	-2.753250e+000	
+3.544922e+002	6.445314e+002	-2.749875e+000	-2.753625e+000	
+3.554688e+002	6.435549e+002	-2.751750e+000	-2.753625e+000	
+3.564453e+002	6.425783e+002	-2.749500e+000	-2.752875e+000	
+3.574219e+002	6.416017e+002	-2.750625e+000	-2.752875e+000	
+3.583985e+002	6.406252e+002	-2.751000e+000	-2.753625e+000	
+3.593750e+002	6.396486e+002	-2.748375e+000	-2.754375e+000	
+3.603516e+002	6.386721e+002	-2.750250e+000	-2.752500e+000	
+3.613282e+002	6.376955e+002	-2.751000e+000	-2.753625e+000	
+3.623047e+002	6.367189e+002	-2.749875e+000	-2.753250e+000	
+3.632813e+002	6.357424e+002	-2.750250e+000	-2.752500e+000	
+3.642578e+002	6.347658e+002	-2.751000e+000	-2.753250e+000	
+3.652344e+002	6.337892e+002	-2.749875e+000	-2.755125e+000	
+3.662110e+002	6.328127e+002	-2.750625e+000	-2.753250e+000	
+3.671875e+002	6.318361e+002	-2.750250e+000	-2.753625e+000	
+3.681641e+002	6.308596e+002	-2.751750e+000	-2.754750e+000	
+3.691407e+002	6.298830e+002	-2.749500e+000	-2.754000e+000	
+3.701172e+002	6.289064e+002	-2.749500e+000	-2.755500e+000	
+3.710938e+002	6.279299e+002	-2.749875e+000	-2.754375e+000	
+3.720703e+002	6.269533e+002	-2.750250e+000	-2.755500e+000	
+3.730469e+002	6.259767e+002	-2.750250e+000	-2.752875e+000	
+3.740235e+002	6.250002e+002	-2.749875e+000	-2.754750e+000	
+3.750000e+002	6.240236e+002	-2.750625e+000	-2.753250e+000	
+3.759766e+002	6.230471e+002	-2.749875e+000	-2.755125e+000	
+3.769532e+002	6.220705e+002	-2.749875e+000	-2.755125e+000	
+3.779297e+002	6.210939e+002	-2.748750e+000	-2.754750e+000	
+3.789063e+002	6.201174e+002	-2.749125e+000	-2.755125e+000	
+3.798828e+002	6.191408e+002	-2.749875e+000	-2.754375e+000	
+3.808594e+002	6.181642e+002	-2.748750e+000	-2.756250e+000	
+3.818360e+002	6.171877e+002	-2.750250e+000	-2.754750e+000	
+3.828125e+002	6.162111e+002	-2.748750e+000	-2.756250e+000	
+3.837891e+002	6.152346e+002	-2.749125e+000	-2.755125e+000	
+3.847657e+002	6.142580e+002	-2.750250e+000	-2.755875e+000	
+3.857422e+002	6.132814e+002	-2.749125e+000	-2.755500e+000	
+3.867188e+002	6.123049e+002	-2.749500e+000	-2.756625e+000	
+3.876953e+002	6.113283e+002	-2.749125e+000	-2.754000e+000	
+3.886719e+002	6.103517e+002	-2.748375e+000	-2.755875e+000	
+3.896485e+002	6.093752e+002	-2.749125e+000	-2.755500e+000	
+3.906250e+002	6.083986e+002	-2.748750e+000	-2.755875e+000	
+3.916016e+002	6.074221e+002	-2.748750e+000	-2.755875e+000	
+3.925782e+002	6.064455e+002	-2.749500e+000	-2.755500e+000	
+3.935547e+002	6.054689e+002	-2.748375e+000	-2.755875e+000	
+3.945313e+002	6.044924e+002	-2.749125e+000	-2.754750e+000	
+3.955078e+002	6.035158e+002	-2.749500e+000	-2.756625e+000	
+3.964844e+002	6.025392e+002	-2.749125e+000	-2.756250e+000	
+3.974610e+002	6.015627e+002	-2.749500e+000	-2.755125e+000	
+3.984375e+002	6.005861e+002	-2.749875e+000	-2.755125e+000	
+3.994141e+002	5.996096e+002	-2.749500e+000	-2.755875e+000	
+4.003907e+002	5.986330e+002	-2.747625e+000	-2.755875e+000	
+4.013672e+002	5.976564e+002	-2.749500e+000	-2.755500e+000	
+4.023438e+002	5.966799e+002	-2.748750e+000	-2.755875e+000	
+4.033203e+002	5.957033e+002	-2.748375e+000	-2.755875e+000	
+4.042969e+002	5.947267e+002	-2.748750e+000	-2.756250e+000	
+4.052735e+002	5.937502e+002	-2.750625e+000	-2.755125e+000	
+4.062500e+002	5.927736e+002	-2.749875e+000	-2.756250e+000	
+4.072266e+002	5.917971e+002	-2.749125e+000	-2.756250e+000	
+4.082032e+002	5.908205e+002	-2.749500e+000	-2.755125e+000	
+4.091797e+002	5.898439e+002	-2.748750e+000	-2.755125e+000	
+4.101563e+002	5.888674e+002	-2.748375e+000	-2.755125e+000	
+4.111328e+002	5.878908e+002	-2.748750e+000	-2.756250e+000	
+4.121094e+002	5.869142e+002	-2.748375e+000	-2.756625e+000	
+4.130860e+002	5.859377e+002	-2.748375e+000	-2.755500e+000	
+4.140625e+002	5.849611e+002	-2.749125e+000	-2.755875e+000	
+4.150391e+002	5.839846e+002	-2.748750e+000	-2.756250e+000	
+4.160157e+002	5.830080e+002	-2.748000e+000	-2.757375e+000	
+4.169922e+002	5.820314e+002	-2.748750e+000	-2.755875e+000	
+4.179688e+002	5.810549e+002	-2.749125e+000	-2.755875e+000	
+4.189453e+002	5.800783e+002	-2.749125e+000	-2.755875e+000	
+4.199219e+002	5.791017e+002	-2.748750e+000	-2.755875e+000	
+4.208985e+002	5.781252e+002	-2.749125e+000	-2.758125e+000	
+4.218750e+002	5.771486e+002	-2.748375e+000	-2.758125e+000	
+4.228516e+002	5.761721e+002	-2.748000e+000	-2.757375e+000	
+4.238282e+002	5.751955e+002	-2.748750e+000	-2.757000e+000	
+4.248047e+002	5.742189e+002	-2.748750e+000	-2.757750e+000	
+4.257813e+002	5.732424e+002	-2.748750e+000	-2.756625e+000	
+4.267578e+002	5.722658e+002	-2.749875e+000	-2.757750e+000	
+4.277344e+002	5.712892e+002	-2.748375e+000	-2.758125e+000	
+4.287110e+002	5.703127e+002	-2.751000e+000	-2.757375e+000	
+4.296875e+002	5.693361e+002	-2.749500e+000	-2.756625e+000	
+4.306641e+002	5.683596e+002	-2.749125e+000	-2.756625e+000	
+4.316407e+002	5.673830e+002	-2.748750e+000	-2.757375e+000	
+4.326172e+002	5.664064e+002	-2.748375e+000	-2.757750e+000	
+4.335938e+002	5.654299e+002	-2.746875e+000	-2.757000e+000	
+4.345703e+002	5.644533e+002	-2.747625e+000	-2.757375e+000	
+4.355469e+002	5.634767e+002	-2.748375e+000	-2.756250e+000	
+4.365235e+002	5.625002e+002	-2.749125e+000	-2.758500e+000	
+4.375000e+002	5.615236e+002	-2.749125e+000	-2.757750e+000	
+4.384766e+002	5.605471e+002	-2.748000e+000	-2.757000e+000	
+4.394532e+002	5.595705e+002	-2.747625e+000	-2.757375e+000	
+4.404297e+002	5.585939e+002	-2.748375e+000	-2.757750e+000	
+4.414063e+002	5.576174e+002	-2.748750e+000	-2.756250e+000	
+4.423828e+002	5.566408e+002	-2.749125e+000	-2.757750e+000	
+4.433594e+002	5.556642e+002	-2.748750e+000	-2.756625e+000	
+4.443360e+002	5.546877e+002	-2.750625e+000	-2.756625e+000	
+4.453125e+002	5.537111e+002	-2.750250e+000	-2.757375e+000	
+4.462891e+002	5.527346e+002	-2.749500e+000	-2.757375e+000	
+4.472657e+002	5.517580e+002	-2.749875e+000	-2.756250e+000	
+4.482422e+002	5.507814e+002	-2.749125e+000	-2.757750e+000	
+4.492188e+002	5.498049e+002	-2.750625e+000	-2.756625e+000	
+4.501953e+002	5.488283e+002	-2.749875e+000	-2.757750e+000	
+4.511719e+002	5.478517e+002	-2.749500e+000	-2.758875e+000	
+4.521485e+002	5.468752e+002	-2.751000e+000	-2.756625e+000	
+4.531250e+002	5.458986e+002	-2.750250e+000	-2.756250e+000	
+4.541016e+002	5.449221e+002	-2.750250e+000	-2.756250e+000	
+4.550782e+002	5.439455e+002	-2.749500e+000	-2.757000e+000	
+4.560547e+002	5.429689e+002	-2.749875e+000	-2.756250e+000	
+4.570313e+002	5.419924e+002	-2.751000e+000	-2.756625e+000	
+4.580078e+002	5.410158e+002	-2.751375e+000	-2.755875e+000	
+4.589844e+002	5.400392e+002	-2.751000e+000	-2.756625e+000	
+4.599610e+002	5.390627e+002	-2.750625e+000	-2.756625e+000	
+4.609375e+002	5.380861e+002	-2.750625e+000	-2.758125e+000	
+4.619141e+002	5.371096e+002	-2.749875e+000	-2.757375e+000	
+4.628907e+002	5.361330e+002	-2.749875e+000	-2.757375e+000	
+4.638672e+002	5.351564e+002	-2.749125e+000	-2.757750e+000	
+4.648438e+002	5.341799e+002	-2.751000e+000	-2.756250e+000	
+4.658203e+002	5.332033e+002	-2.750625e+000	-2.757375e+000	
+4.667969e+002	5.322267e+002	-2.751000e+000	-2.757375e+000	
+4.677735e+002	5.312502e+002	-2.750625e+000	-2.755875e+000	
+4.687500e+002	5.302736e+002	-2.750250e+000	-2.755875e+000	
+4.697266e+002	5.292971e+002	-2.749875e+000	-2.757000e+000	
+4.707032e+002	5.283205e+002	-2.751750e+000	-2.757000e+000	
+4.716797e+002	5.273439e+002	-2.750250e+000	-2.754750e+000	
+4.726563e+002	5.263674e+002	-2.749875e+000	-2.756250e+000	
+4.736328e+002	5.253908e+002	-2.752125e+000	-2.756250e+000	
+4.746094e+002	5.244142e+002	-2.751000e+000	-2.756250e+000	
+4.755860e+002	5.234377e+002	-2.751375e+000	-2.755500e+000	
+4.765625e+002	5.224611e+002	-2.752500e+000	-2.757000e+000	
+4.775391e+002	5.214846e+002	-2.751000e+000	-2.756625e+000	
+4.785157e+002	5.205080e+002	-2.750250e+000	-2.757000e+000	
+4.794922e+002	5.195314e+002	-2.751000e+000	-2.757000e+000	
+4.804688e+002	5.185549e+002	-2.750625e+000	-2.755500e+000	
+4.814453e+002	5.175783e+002	-2.751000e+000	-2.756625e+000	
+4.824219e+002	5.166017e+002	-2.751000e+000	-2.756250e+000	
+4.833985e+002	5.156252e+002	-2.752500e+000	-2.755875e+000	
+4.843750e+002	5.146486e+002	-2.751375e+000	-2.755125e+000	
+4.853516e+002	5.136721e+002	-2.751000e+000	-2.756625e+000	
+4.863282e+002	5.126955e+002	-2.752875e+000	-2.755125e+000	
+4.873047e+002	5.117189e+002	-2.751000e+000	-2.755500e+000	
+4.882813e+002	5.107424e+002	-2.751750e+000	-2.755500e+000	
+4.892578e+002	5.097658e+002	-2.751750e+000	-2.755500e+000	
+4.902344e+002	5.087892e+002	-2.750250e+000	-2.754750e+000	
+4.912110e+002	5.078127e+002	-2.752125e+000	-2.754750e+000	
+4.921875e+002	5.068361e+002	-2.750625e+000	-2.756625e+000	
+4.931641e+002	5.058596e+002	-2.752125e+000	-2.755500e+000	
+4.941407e+002	5.048830e+002	-2.751750e+000	-2.756625e+000	
+4.951172e+002	5.039064e+002	-2.750625e+000	-2.755500e+000	
+4.960938e+002	5.029299e+002	-2.752125e+000	-2.756250e+000	
+4.970703e+002	5.019533e+002	-2.751750e+000	-2.755500e+000	
+4.980469e+002	5.009767e+002	-2.751000e+000	-2.755500e+000	
+4.990235e+002	5.000002e+002	-2.751750e+000	-2.756250e+000	
+5.000000e+002	4.990236e+002	-2.752500e+000	-2.755125e+000	
+5.009766e+002	4.980471e+002	-2.752125e+000	-2.755500e+000	
+5.019532e+002	4.970705e+002	-2.751375e+000	-2.754750e+000	
+5.029297e+002	4.960939e+002	-2.751750e+000	-2.755500e+000	
+5.039063e+002	4.951174e+002	-2.753250e+000	-2.756250e+000	
+5.048828e+002	4.941408e+002	-2.751750e+000	-2.755125e+000	
+5.058594e+002	4.931642e+002	-2.751750e+000	-2.756250e+000	
+5.068360e+002	4.921877e+002	-2.753625e+000	-2.754375e+000	
+5.078125e+002	4.912111e+002	-2.752875e+000	-2.755500e+000	
+5.087891e+002	4.902346e+002	-2.752500e+000	-2.756250e+000	
+5.097657e+002	4.892580e+002	-2.754000e+000	-2.756250e+000	
+5.107422e+002	4.882814e+002	-2.752125e+000	-2.754750e+000	
+5.117188e+002	4.873049e+002	-2.752875e+000	-2.755125e+000	
+5.126954e+002	4.863283e+002	-2.753250e+000	-2.753625e+000	
+5.136719e+002	4.853517e+002	-2.751750e+000	-2.755125e+000	
+5.146485e+002	4.843752e+002	-2.752875e+000	-2.754375e+000	
+5.156251e+002	4.833986e+002	-2.753250e+000	-2.754750e+000	
+5.166016e+002	4.824221e+002	-2.751750e+000	-2.755125e+000	
+5.175782e+002	4.814455e+002	-2.751375e+000	-2.754750e+000	
+5.185547e+002	4.804689e+002	-2.752125e+000	-2.753250e+000	
+5.195313e+002	4.794924e+002	-2.752875e+000	-2.754000e+000	
+5.205079e+002	4.785158e+002	-2.751375e+000	-2.755125e+000	
+5.214844e+002	4.775392e+002	-2.752125e+000	-2.754375e+000	
+5.224610e+002	4.765627e+002	-2.752125e+000	-2.753625e+000	
+5.234376e+002	4.755861e+002	-2.752125e+000	-2.755125e+000	
+5.244141e+002	4.746096e+002	-2.751375e+000	-2.754000e+000	
+5.253907e+002	4.736330e+002	-2.752875e+000	-2.754375e+000	
+5.263672e+002	4.726564e+002	-2.752125e+000	-2.755125e+000	
+5.273438e+002	4.716799e+002	-2.751750e+000	-2.752875e+000	
+5.283204e+002	4.707033e+002	-2.752500e+000	-2.754000e+000	
+5.292969e+002	4.697267e+002	-2.752125e+000	-2.754375e+000	
+5.302735e+002	4.687502e+002	-2.751375e+000	-2.754750e+000	
+5.312501e+002	4.677736e+002	-2.751750e+000	-2.754750e+000	
+5.322266e+002	4.667971e+002	-2.752125e+000	-2.755500e+000	
+5.332032e+002	4.658205e+002	-2.754000e+000	-2.754000e+000	
+5.341797e+002	4.648439e+002	-2.752125e+000	-2.754000e+000	
+5.351563e+002	4.638674e+002	-2.752125e+000	-2.754375e+000	
+5.361329e+002	4.628908e+002	-2.753250e+000	-2.754750e+000	
+5.371094e+002	4.619142e+002	-2.752125e+000	-2.754000e+000	
+5.380860e+002	4.609377e+002	-2.752500e+000	-2.754000e+000	
+5.390626e+002	4.599611e+002	-2.754000e+000	-2.754000e+000	
+5.400391e+002	4.589846e+002	-2.752500e+000	-2.755500e+000	
+5.410157e+002	4.580080e+002	-2.751750e+000	-2.756250e+000	
+5.419922e+002	4.570314e+002	-2.751750e+000	-2.755875e+000	
+5.429688e+002	4.560549e+002	-2.751750e+000	-2.755875e+000	
+5.439454e+002	4.550783e+002	-2.752500e+000	-2.754750e+000	
+5.449219e+002	4.541017e+002	-2.751750e+000	-2.755125e+000	
+5.458985e+002	4.531252e+002	-2.751750e+000	-2.755500e+000	
+5.468751e+002	4.521486e+002	-2.752500e+000	-2.755125e+000	
+5.478516e+002	4.511721e+002	-2.752125e+000	-2.754375e+000	
+5.488282e+002	4.501955e+002	-2.752875e+000	-2.754375e+000	
+5.498047e+002	4.492189e+002	-2.753250e+000	-2.757375e+000	
+5.507813e+002	4.482424e+002	-2.753250e+000	-2.755500e+000	
+5.517579e+002	4.472658e+002	-2.751000e+000	-2.754375e+000	
+5.527344e+002	4.462892e+002	-2.751750e+000	-2.756625e+000	
+5.537110e+002	4.453127e+002	-2.751750e+000	-2.755500e+000	
+5.546876e+002	4.443361e+002	-2.752125e+000	-2.755500e+000	
+5.556641e+002	4.433596e+002	-2.751000e+000	-2.754750e+000	
+5.566407e+002	4.423830e+002	-2.751000e+000	-2.755500e+000	
+5.576172e+002	4.414064e+002	-2.750625e+000	-2.755125e+000	
+5.585938e+002	4.404299e+002	-2.751750e+000	-2.756625e+000	
+5.595704e+002	4.394533e+002	-2.751375e+000	-2.755125e+000	
+5.605469e+002	4.384767e+002	-2.751000e+000	-2.755125e+000	
+5.615235e+002	4.375002e+002	-2.751750e+000	-2.755125e+000	
+5.625001e+002	4.365236e+002	-2.751750e+000	-2.754375e+000	
+5.634766e+002	4.355471e+002	-2.751000e+000	-2.754750e+000	
+5.644532e+002	4.345705e+002	-2.750250e+000	-2.754375e+000	
+5.654297e+002	4.335939e+002	-2.751750e+000	-2.755500e+000	
+5.664063e+002	4.326174e+002	-2.752125e+000	-2.755500e+000	
+5.673829e+002	4.316408e+002	-2.751375e+000	-2.754375e+000	
+5.683594e+002	4.306642e+002	-2.751000e+000	-2.755500e+000	
+5.693360e+002	4.296877e+002	-2.750250e+000	-2.756250e+000	
+5.703126e+002	4.287111e+002	-2.749875e+000	-2.756250e+000	
+5.712891e+002	4.277346e+002	-2.749875e+000	-2.755875e+000	
+5.722657e+002	4.267580e+002	-2.749500e+000	-2.756250e+000	
+5.732422e+002	4.257814e+002	-2.750250e+000	-2.757375e+000	
+5.742188e+002	4.248049e+002	-2.749500e+000	-2.756250e+000	
+5.751954e+002	4.238283e+002	-2.750250e+000	-2.757000e+000	
+5.761719e+002	4.228517e+002	-2.748750e+000	-2.756250e+000	
+5.771485e+002	4.218752e+002	-2.750250e+000	-2.756625e+000	
+5.781251e+002	4.208986e+002	-2.749500e+000	-2.755500e+000	
+5.791016e+002	4.199221e+002	-2.749125e+000	-2.757000e+000	
+5.800782e+002	4.189455e+002	-2.750625e+000	-2.756250e+000	
+5.810547e+002	4.179689e+002	-2.748750e+000	-2.757375e+000	
+5.820313e+002	4.169924e+002	-2.750250e+000	-2.756625e+000	
+5.830079e+002	4.160158e+002	-2.749875e+000	-2.757375e+000	
+5.839844e+002	4.150392e+002	-2.748750e+000	-2.755875e+000	
+5.849610e+002	4.140627e+002	-2.749500e+000	-2.756625e+000	
+5.859376e+002	4.130861e+002	-2.748375e+000	-2.756625e+000	
+5.869141e+002	4.121096e+002	-2.749125e+000	-2.757750e+000	
+5.878907e+002	4.111330e+002	-2.750250e+000	-2.757000e+000	
+5.888672e+002	4.101564e+002	-2.748750e+000	-2.755500e+000	
+5.898438e+002	4.091799e+002	-2.747625e+000	-2.758125e+000	
+5.908204e+002	4.082033e+002	-2.750250e+000	-2.755500e+000	
+5.917969e+002	4.072267e+002	-2.749125e+000	-2.755875e+000	
+5.927735e+002	4.062502e+002	-2.750625e+000	-2.756625e+000	
+5.937501e+002	4.052736e+002	-2.749875e+000	-2.756625e+000	
+5.947266e+002	4.042971e+002	-2.748750e+000	-2.757750e+000	
+5.957032e+002	4.033205e+002	-2.749125e+000	-2.757375e+000	
+5.966797e+002	4.023439e+002	-2.749500e+000	-2.757000e+000	
+5.976563e+002	4.013674e+002	-2.748750e+000	-2.758500e+000	
+5.986329e+002	4.003908e+002	-2.749125e+000	-2.758500e+000	
+5.996094e+002	3.994142e+002	-2.749125e+000	-2.756250e+000	
+6.005860e+002	3.984377e+002	-2.748375e+000	-2.759250e+000	
+6.015626e+002	3.974611e+002	-2.747625e+000	-2.757000e+000	
+6.025391e+002	3.964846e+002	-2.748000e+000	-2.757000e+000	
+6.035157e+002	3.955080e+002	-2.748375e+000	-2.758125e+000	
+6.044922e+002	3.945314e+002	-2.748375e+000	-2.758875e+000	
+6.054688e+002	3.935549e+002	-2.748375e+000	-2.757375e+000	
+6.064454e+002	3.925783e+002	-2.748375e+000	-2.758125e+000	
+6.074219e+002	3.916017e+002	-2.749125e+000	-2.757750e+000	
+6.083985e+002	3.906252e+002	-2.748375e+000	-2.757750e+000	
+6.093751e+002	3.896486e+002	-2.748375e+000	-2.758125e+000	
+6.103516e+002	3.886721e+002	-2.748000e+000	-2.758125e+000	
+6.113282e+002	3.876955e+002	-2.749500e+000	-2.758125e+000	
+6.123047e+002	3.867189e+002	-2.748750e+000	-2.757750e+000	
+6.132813e+002	3.857424e+002	-2.749125e+000	-2.757750e+000	
+6.142579e+002	3.847658e+002	-2.749500e+000	-2.759250e+000	
+6.152344e+002	3.837892e+002	-2.748750e+000	-2.758500e+000	
+6.162110e+002	3.828127e+002	-2.748000e+000	-2.758125e+000	
+6.171876e+002	3.818361e+002	-2.748750e+000	-2.758500e+000	
+6.181641e+002	3.808596e+002	-2.749125e+000	-2.757750e+000	
+6.191407e+002	3.798830e+002	-2.747625e+000	-2.759625e+000	
+6.201172e+002	3.789064e+002	-2.749500e+000	-2.757375e+000	
+6.210938e+002	3.779299e+002	-2.748750e+000	-2.758125e+000	
+6.220704e+002	3.769533e+002	-2.748750e+000	-2.757000e+000	
+6.230469e+002	3.759767e+002	-2.748375e+000	-2.758500e+000	
+6.240235e+002	3.750002e+002	-2.748000e+000	-2.758875e+000	
+6.250001e+002	3.740236e+002	-2.749500e+000	-2.757750e+000	
+6.259766e+002	3.730471e+002	-2.750250e+000	-2.758125e+000	
+6.269532e+002	3.720705e+002	-2.748000e+000	-2.758125e+000	
+6.279297e+002	3.710939e+002	-2.749500e+000	-2.758125e+000	
+6.289063e+002	3.701174e+002	-2.748750e+000	-2.757750e+000	
+6.298829e+002	3.691408e+002	-2.748000e+000	-2.759625e+000	
+6.308594e+002	3.681642e+002	-2.748000e+000	-2.758125e+000	
+6.318360e+002	3.671877e+002	-2.748375e+000	-2.758500e+000	
+6.328126e+002	3.662111e+002	-2.748375e+000	-2.758500e+000	
+6.337891e+002	3.652346e+002	-2.748750e+000	-2.757750e+000	
+6.347657e+002	3.642580e+002	-2.750250e+000	-2.758875e+000	
+6.357422e+002	3.632814e+002	-2.749125e+000	-2.758875e+000	
+6.367188e+002	3.623049e+002	-2.749125e+000	-2.757750e+000	
+6.376954e+002	3.613283e+002	-2.748750e+000	-2.758875e+000	
+6.386719e+002	3.603517e+002	-2.749125e+000	-2.759625e+000	
+6.396485e+002	3.593752e+002	-2.749125e+000	-2.760000e+000	
+6.406251e+002	3.583986e+002	-2.748750e+000	-2.760375e+000	
+6.416016e+002	3.574221e+002	-2.749500e+000	-2.758500e+000	
+6.425782e+002	3.564455e+002	-2.748000e+000	-2.758125e+000	
+6.435547e+002	3.554689e+002	-2.749125e+000	-2.759250e+000	
+6.445313e+002	3.544924e+002	-2.748375e+000	-2.758500e+000	
+6.455079e+002	3.535158e+002	-2.751375e+000	-2.757750e+000	
+6.464844e+002	3.525392e+002	-2.750250e+000	-2.759250e+000	
+6.474610e+002	3.515627e+002	-2.749875e+000	-2.759250e+000	
+6.484376e+002	3.505861e+002	-2.748750e+000	-2.759250e+000	
+6.494141e+002	3.496096e+002	-2.748375e+000	-2.759250e+000	
+6.503907e+002	3.486330e+002	-2.749125e+000	-2.758875e+000	
+6.513672e+002	3.476564e+002	-2.748750e+000	-2.759625e+000	
+6.523438e+002	3.466799e+002	-2.747625e+000	-2.759250e+000	
+6.533204e+002	3.457033e+002	-2.749500e+000	-2.758500e+000	
+6.542969e+002	3.447267e+002	-2.749125e+000	-2.759250e+000	
+6.552735e+002	3.437502e+002	-2.750250e+000	-2.758500e+000	
+6.562501e+002	3.427736e+002	-2.749875e+000	-2.758875e+000	
+6.572266e+002	3.417971e+002	-2.749125e+000	-2.758500e+000	
+6.582032e+002	3.408205e+002	-2.749125e+000	-2.758125e+000	
+6.591797e+002	3.398439e+002	-2.749125e+000	-2.760000e+000	
+6.601563e+002	3.388674e+002	-2.749500e+000	-2.758125e+000	
+6.611329e+002	3.378908e+002	-2.749875e+000	-2.759625e+000	
+6.621094e+002	3.369142e+002	-2.750250e+000	-2.760375e+000	
+6.630860e+002	3.359377e+002	-2.749875e+000	-2.759625e+000	
+6.640626e+002	3.349611e+002	-2.749125e+000	-2.758500e+000	
+6.650391e+002	3.339846e+002	-2.749500e+000	-2.760375e+000	
+6.660157e+002	3.330080e+002	-2.749875e+000	-2.758125e+000	
+6.669922e+002	3.320314e+002	-2.750625e+000	-2.759625e+000	
+6.679688e+002	3.310549e+002	-2.749125e+000	-2.758875e+000	
+6.689454e+002	3.300783e+002	-2.749875e+000	-2.759250e+000	
+6.699219e+002	3.291017e+002	-2.751000e+000	-2.758875e+000	
+6.708985e+002	3.281252e+002	-2.750625e+000	-2.759625e+000	
+6.718751e+002	3.271486e+002	-2.749125e+000	-2.759250e+000	
+6.728516e+002	3.261721e+002	-2.751000e+000	-2.759625e+000	
+6.738282e+002	3.251955e+002	-2.749500e+000	-2.758500e+000	
+6.748047e+002	3.242189e+002	-2.748000e+000	-2.758875e+000	
+6.757813e+002	3.232424e+002	-2.750250e+000	-2.758875e+000	
+6.767579e+002	3.222658e+002	-2.750625e+000	-2.757375e+000	
+6.777344e+002	3.212892e+002	-2.750250e+000	-2.758875e+000	
+6.787110e+002	3.203127e+002	-2.750250e+000	-2.758125e+000	
+6.796876e+002	3.193361e+002	-2.750250e+000	-2.758500e+000	
+6.806641e+002	3.183596e+002	-2.750625e+000	-2.758500e+000	
+6.816407e+002	3.173830e+002	-2.749875e+000	-2.758875e+000	
+6.826172e+002	3.164064e+002	-2.752125e+000	-2.757375e+000	
+6.835938e+002	3.154299e+002	-2.750250e+000	-2.758500e+000	
+6.845704e+002	3.144533e+002	-2.752125e+000	-2.758500e+000	
+6.855469e+002	3.134767e+002	-2.750625e+000	-2.757375e+000	
+6.865235e+002	3.125002e+002	-2.751375e+000	-2.758875e+000	
+6.875001e+002	3.115236e+002	-2.749875e+000	-2.759625e+000	
+6.884766e+002	3.105471e+002	-2.752500e+000	-2.757750e+000	
+6.894532e+002	3.095705e+002	-2.749875e+000	-2.757750e+000	
+6.904297e+002	3.085939e+002	-2.750625e+000	-2.758500e+000	
+6.914063e+002	3.076174e+002	-2.750625e+000	-2.757375e+000	
+6.923829e+002	3.066408e+002	-2.751750e+000	-2.757000e+000	
+6.933594e+002	3.056642e+002	-2.750625e+000	-2.758875e+000	
+6.943360e+002	3.046877e+002	-2.751750e+000	-2.757750e+000	
+6.953126e+002	3.037111e+002	-2.752125e+000	-2.757000e+000	
+6.962891e+002	3.027346e+002	-2.751000e+000	-2.757375e+000	
+6.972657e+002	3.017580e+002	-2.752875e+000	-2.757375e+000	
+6.982422e+002	3.007814e+002	-2.751000e+000	-2.757000e+000	
+6.992188e+002	2.998049e+002	-2.752125e+000	-2.757375e+000	
+7.001954e+002	2.988283e+002	-2.752500e+000	-2.756625e+000	
+7.011719e+002	2.978517e+002	-2.751375e+000	-2.758125e+000	
+7.021485e+002	2.968752e+002	-2.750250e+000	-2.757750e+000	
+7.031251e+002	2.958986e+002	-2.751000e+000	-2.757750e+000	
+7.041016e+002	2.949221e+002	-2.751750e+000	-2.757750e+000	
+7.050782e+002	2.939455e+002	-2.752500e+000	-2.759250e+000	
+7.060547e+002	2.929689e+002	-2.752125e+000	-2.757750e+000	
+7.070313e+002	2.919924e+002	-2.751000e+000	-2.756250e+000	
+7.080079e+002	2.910158e+002	-2.751000e+000	-2.757000e+000	
+7.089844e+002	2.900392e+002	-2.752125e+000	-2.757750e+000	
+7.099610e+002	2.890627e+002	-2.751375e+000	-2.757000e+000	
+7.109376e+002	2.880861e+002	-2.750625e+000	-2.757375e+000	
+7.119141e+002	2.871096e+002	-2.752125e+000	-2.757000e+000	
+7.128907e+002	2.861330e+002	-2.752125e+000	-2.757000e+000	
+7.138672e+002	2.851564e+002	-2.752500e+000	-2.757375e+000	
+7.148438e+002	2.841799e+002	-2.752500e+000	-2.757750e+000	
+7.158204e+002	2.832033e+002	-2.751750e+000	-2.756250e+000	
+7.167969e+002	2.822267e+002	-2.753250e+000	-2.756625e+000	
+7.177735e+002	2.812502e+002	-2.752125e+000	-2.757750e+000	
+7.187501e+002	2.802736e+002	-2.752500e+000	-2.757750e+000	
+7.197266e+002	2.792971e+002	-2.751375e+000	-2.756250e+000	
+7.207032e+002	2.783205e+002	-2.752125e+000	-2.758125e+000	
+7.216797e+002	2.773439e+002	-2.752125e+000	-2.756625e+000	
+7.226563e+002	2.763674e+002	-2.752125e+000	-2.758500e+000	
+7.236329e+002	2.753908e+002	-2.751750e+000	-2.757000e+000	
+7.246094e+002	2.744142e+002	-2.752125e+000	-2.757000e+000	
+7.255860e+002	2.734377e+002	-2.751750e+000	-2.757375e+000	
+7.265626e+002	2.724611e+002	-2.752125e+000	-2.757375e+000	
+7.275391e+002	2.714846e+002	-2.752125e+000	-2.755875e+000	
+7.285157e+002	2.705080e+002	-2.751375e+000	-2.757750e+000	
+7.294922e+002	2.695314e+002	-2.751375e+000	-2.756250e+000	
+7.304688e+002	2.685549e+002	-2.751750e+000	-2.757000e+000	
+7.314454e+002	2.675783e+002	-2.750625e+000	-2.756625e+000	
+7.324219e+002	2.666017e+002	-2.752500e+000	-2.755500e+000	
+7.333985e+002	2.656252e+002	-2.752875e+000	-2.755875e+000	
+7.343751e+002	2.646486e+002	-2.752875e+000	-2.755875e+000	
+7.353516e+002	2.636721e+002	-2.752125e+000	-2.755500e+000	
+7.363282e+002	2.626955e+002	-2.750625e+000	-2.755125e+000	
+7.373047e+002	2.617189e+002	-2.751750e+000	-2.755125e+000	
+7.382813e+002	2.607424e+002	-2.751375e+000	-2.757000e+000	
+7.392579e+002	2.597658e+002	-2.751750e+000	-2.756625e+000	
+7.402344e+002	2.587892e+002	-2.750625e+000	-2.756625e+000	
+7.412110e+002	2.578127e+002	-2.751375e+000	-2.757375e+000	
+7.421876e+002	2.568361e+002	-2.752500e+000	-2.757375e+000	
+7.431641e+002	2.558596e+002	-2.752500e+000	-2.756250e+000	
+7.441407e+002	2.548830e+002	-2.751375e+000	-2.756250e+000	
+7.451172e+002	2.539064e+002	-2.752875e+000	-2.757000e+000	
+7.460938e+002	2.529299e+002	-2.752875e+000	-2.756250e+000	
+7.470704e+002	2.519533e+002	-2.751375e+000	-2.755875e+000	
+7.480469e+002	2.509767e+002	-2.750625e+000	-2.757000e+000	
+7.490235e+002	2.500002e+002	-2.753625e+000	-2.757000e+000	
+7.500001e+002	2.490236e+002	-2.752500e+000	-2.755875e+000	
+7.509766e+002	2.480471e+002	-2.753250e+000	-2.757375e+000	
+7.519532e+002	2.470705e+002	-2.752500e+000	-2.756250e+000	
+7.529297e+002	2.460939e+002	-2.752125e+000	-2.757000e+000	
+7.539063e+002	2.451174e+002	-2.752500e+000	-2.757000e+000	
+7.548829e+002	2.441408e+002	-2.752500e+000	-2.756250e+000	
+7.558594e+002	2.431642e+002	-2.752125e+000	-2.757375e+000	
+7.568360e+002	2.421877e+002	-2.751375e+000	-2.756625e+000	
+7.578126e+002	2.412111e+002	-2.752125e+000	-2.756250e+000	
+7.587891e+002	2.402346e+002	-2.751000e+000	-2.755875e+000	
+7.597657e+002	2.392580e+002	-2.751000e+000	-2.755875e+000	
+7.607422e+002	2.382814e+002	-2.751000e+000	-2.755875e+000	
+7.617188e+002	2.373049e+002	-2.750250e+000	-2.756625e+000	
+7.626954e+002	2.363283e+002	-2.751750e+000	-2.756250e+000	
+7.636719e+002	2.353517e+002	-2.750625e+000	-2.756250e+000	
+7.646485e+002	2.343752e+002	-2.751375e+000	-2.757000e+000	
+7.656251e+002	2.333986e+002	-2.752125e+000	-2.755125e+000	
+7.666016e+002	2.324221e+002	-2.752125e+000	-2.757750e+000	
+7.675782e+002	2.314455e+002	-2.751000e+000	-2.756625e+000	
+7.685547e+002	2.304689e+002	-2.752500e+000	-2.755875e+000	
+7.695313e+002	2.294924e+002	-2.751750e+000	-2.756625e+000	
+7.705079e+002	2.285158e+002	-2.751375e+000	-2.755875e+000	
+7.714844e+002	2.275392e+002	-2.751375e+000	-2.756250e+000	
+7.724610e+002	2.265627e+002	-2.751000e+000	-2.757000e+000	
+7.734376e+002	2.255861e+002	-2.750625e+000	-2.756625e+000	
+7.744141e+002	2.246096e+002	-2.750625e+000	-2.755500e+000	
+7.753907e+002	2.236330e+002	-2.751000e+000	-2.757000e+000	
+7.763672e+002	2.226564e+002	-2.749875e+000	-2.755875e+000	
+7.773438e+002	2.216799e+002	-2.751750e+000	-2.756625e+000	
+7.783204e+002	2.207033e+002	-2.752125e+000	-2.757375e+000	
+7.792969e+002	2.197267e+002	-2.749875e+000	-2.757375e+000	
+7.802735e+002	2.187502e+002	-2.750250e+000	-2.757750e+000	
+7.812501e+002	2.177736e+002	-2.751750e+000	-2.757750e+000	
+7.822266e+002	2.167971e+002	-2.751750e+000	-2.757000e+000	
+7.832032e+002	2.158205e+002	-2.752875e+000	-2.757375e+000	
+7.841797e+002	2.148439e+002	-2.750250e+000	-2.757375e+000	
+7.851563e+002	2.138674e+002	-2.749875e+000	-2.756625e+000	
+7.861329e+002	2.128908e+002	-2.749875e+000	-2.757375e+000	
+7.871094e+002	2.119142e+002	-2.750625e+000	-2.757000e+000	
+7.880860e+002	2.109377e+002	-2.750250e+000	-2.757000e+000	
+7.890626e+002	2.099611e+002	-2.750250e+000	-2.756625e+000	
+7.900391e+002	2.089846e+002	-2.751000e+000	-2.756625e+000	
+7.910157e+002	2.080080e+002	-2.750625e+000	-2.757375e+000	
+7.919922e+002	2.070314e+002	-2.750250e+000	-2.758500e+000	
+7.929688e+002	2.060549e+002	-2.749875e+000	-2.757000e+000	
+7.939454e+002	2.050783e+002	-2.750250e+000	-2.758500e+000	
+7.949219e+002	2.041017e+002	-2.749875e+000	-2.758125e+000	
+7.958985e+002	2.031252e+002	-2.750625e+000	-2.757750e+000	
+7.968751e+002	2.021486e+002	-2.750250e+000	-2.758875e+000	
+7.978516e+002	2.011721e+002	-2.749500e+000	-2.757750e+000	
+7.988282e+002	2.001955e+002	-2.750250e+000	-2.757375e+000	
+7.998047e+002	1.992189e+002	-2.749125e+000	-2.758125e+000	
+8.007813e+002	1.982424e+002	-2.749500e+000	-2.757750e+000	
+8.017579e+002	1.972658e+002	-2.748750e+000	-2.758500e+000	
+8.027344e+002	1.962892e+002	-2.749125e+000	-2.758875e+000	
+8.037110e+002	1.953127e+002	-2.747625e+000	-2.758875e+000	
+8.046876e+002	1.943361e+002	-2.746875e+000	-2.756625e+000	
+8.056641e+002	1.933596e+002	-2.748000e+000	-2.759250e+000	
+8.066407e+002	1.923830e+002	-2.749500e+000	-2.760375e+000	
+8.076172e+002	1.914064e+002	-2.748750e+000	-2.760375e+000	
+8.085938e+002	1.904299e+002	-2.747625e+000	-2.758500e+000	
+8.095704e+002	1.894533e+002	-2.748750e+000	-2.759625e+000	
+8.105469e+002	1.884767e+002	-2.747625e+000	-2.758500e+000	
+8.115235e+002	1.875002e+002	-2.746500e+000	-2.758125e+000	
+8.125001e+002	1.865236e+002	-2.747250e+000	-2.758125e+000	
+8.134766e+002	1.855471e+002	-2.746125e+000	-2.759625e+000	
+8.144532e+002	1.845705e+002	-2.742750e+000	-2.759250e+000	
+8.154297e+002	1.835939e+002	-2.743500e+000	-2.760000e+000	
+8.164063e+002	1.826174e+002	-2.744625e+000	-2.760375e+000	
+8.173829e+002	1.816408e+002	-2.742750e+000	-2.760375e+000	
+8.183594e+002	1.806642e+002	-2.742375e+000	-2.760375e+000	
+8.193360e+002	1.796877e+002	-2.742750e+000	-2.760000e+000	
+8.203126e+002	1.787111e+002	-2.740875e+000	-2.759250e+000	
+8.212891e+002	1.777346e+002	-2.740125e+000	-2.760375e+000	
+8.222657e+002	1.767580e+002	-2.739375e+000	-2.759250e+000	
+8.232422e+002	1.757814e+002	-2.740125e+000	-2.760000e+000	
+8.242188e+002	1.748049e+002	-2.737500e+000	-2.758875e+000	
+8.251954e+002	1.738283e+002	-2.736000e+000	-2.760000e+000	
+8.261719e+002	1.728517e+002	-2.735250e+000	-2.759250e+000	
+8.271485e+002	1.718752e+002	-2.734500e+000	-2.759625e+000	
+8.281251e+002	1.708986e+002	-2.733000e+000	-2.759250e+000	
+8.291016e+002	1.699221e+002	-2.730375e+000	-2.760375e+000	
+8.300782e+002	1.689455e+002	-2.728875e+000	-2.759250e+000	
+8.310547e+002	1.679689e+002	-2.727000e+000	-2.760000e+000	
+8.320313e+002	1.669924e+002	-2.725125e+000	-2.760000e+000	
+8.330079e+002	1.660158e+002	-2.722875e+000	-2.761500e+000	
+8.339844e+002	1.650392e+002	-2.720250e+000	-2.761125e+000	
+8.349610e+002	1.640627e+002	-2.718000e+000	-2.760750e+000	
+8.359376e+002	1.630861e+002	-2.713500e+000	-2.760000e+000	
+8.369141e+002	1.621096e+002	-2.713500e+000	-2.760750e+000	
+8.378907e+002	1.611330e+002	-2.712000e+000	-2.760000e+000	
+8.388672e+002	1.601564e+002	-2.707125e+000	-2.760750e+000	
+8.398438e+002	1.591799e+002	-2.703375e+000	-2.760750e+000	
+8.408204e+002	1.582033e+002	-2.697750e+000	-2.760750e+000	
+8.417969e+002	1.572267e+002	-2.695500e+000	-2.760750e+000	
+8.427735e+002	1.562502e+002	-2.692125e+000	-2.758875e+000	
+8.437501e+002	1.552736e+002	-2.688750e+000	-2.760750e+000	
+8.447266e+002	1.542971e+002	-2.683500e+000	-2.761500e+000	
+8.457032e+002	1.533205e+002	-2.680875e+000	-2.761500e+000	
+8.466797e+002	1.523439e+002	-2.675625e+000	-2.760375e+000	
+8.476563e+002	1.513674e+002	-2.669625e+000	-2.760000e+000	
+8.486329e+002	1.503908e+002	-2.664750e+000	-2.760750e+000	
+8.496094e+002	1.494142e+002	-2.659125e+000	-2.760000e+000	
+8.505860e+002	1.484377e+002	-2.654250e+000	-2.760375e+000	
+8.515626e+002	1.474611e+002	-2.647875e+000	-2.760750e+000	
+8.525391e+002	1.464846e+002	-2.641500e+000	-2.760750e+000	
+8.535157e+002	1.455080e+002	-2.636625e+000	-2.760375e+000	
+8.544922e+002	1.445314e+002	-2.629125e+000	-2.761500e+000	
+8.554688e+002	1.435549e+002	-2.625000e+000	-2.760375e+000	
+8.564454e+002	1.425783e+002	-2.616375e+000	-2.761125e+000	
+8.574219e+002	1.416017e+002	-2.609250e+000	-2.760750e+000	
+8.583985e+002	1.406252e+002	-2.601750e+000	-2.760750e+000	
+8.593751e+002	1.396486e+002	-2.595750e+000	-2.761125e+000	
+8.603516e+002	1.386721e+002	-2.586375e+000	-2.761125e+000	
+8.613282e+002	1.376955e+002	-2.580375e+000	-2.760000e+000	
+8.623047e+002	1.367189e+002	-2.571375e+000	-2.759625e+000	
+8.632813e+002	1.357424e+002	-2.564625e+000	-2.760750e+000	
+8.642579e+002	1.347658e+002	-2.554125e+000	-2.761875e+000	
+8.652344e+002	1.337892e+002	-2.547000e+000	-2.761500e+000	
+8.662110e+002	1.328127e+002	-2.535375e+000	-2.760000e+000	
+8.671876e+002	1.318361e+002	-2.526750e+000	-2.761875e+000	
+8.681641e+002	1.308596e+002	-2.517750e+000	-2.763000e+000	
+8.691407e+002	1.298830e+002	-2.506500e+000	-2.761500e+000	
+8.701172e+002	1.289064e+002	-2.497500e+000	-2.760750e+000	
+8.710938e+002	1.279299e+002	-2.485875e+000	-2.761500e+000	
+8.720704e+002	1.269533e+002	-2.475750e+000	-2.762250e+000	
+8.730469e+002	1.259767e+002	-2.464500e+000	-2.760000e+000	
+8.740235e+002	1.250002e+002	-2.455875e+000	-2.761125e+000	
+8.750001e+002	1.240236e+002	-2.443125e+000	-2.760000e+000	
+8.759766e+002	1.230471e+002	-2.432250e+000	-2.761125e+000	
+8.769532e+002	1.220705e+002	-2.419875e+000	-2.760000e+000	
+8.779297e+002	1.210939e+002	-2.408250e+000	-2.761125e+000	
+8.789063e+002	1.201174e+002	-2.394750e+000	-2.760750e+000	
+8.798829e+002	1.191408e+002	-2.383500e+000	-2.759625e+000	
+8.808594e+002	1.181642e+002	-2.373375e+000	-2.760375e+000	
+8.818360e+002	1.171877e+002	-2.360625e+000	-2.760000e+000	
+8.828126e+002	1.162111e+002	-2.345625e+000	-2.759250e+000	
+8.837891e+002	1.152346e+002	-2.331750e+000	-2.760000e+000	
+8.847657e+002	1.142580e+002	-2.317875e+000	-2.759625e+000	
+8.857422e+002	1.132814e+002	-2.304000e+000	-2.760000e+000	
+8.867188e+002	1.123049e+002	-2.290875e+000	-2.761500e+000	
+8.876954e+002	1.113283e+002	-2.277375e+000	-2.760750e+000	
+8.886719e+002	1.103517e+002	-2.262750e+000	-2.759625e+000	
+8.896485e+002	1.093752e+002	-2.248500e+000	-2.760000e+000	
+8.906251e+002	1.083986e+002	-2.233875e+000	-2.760375e+000	
+8.916016e+002	1.074221e+002	-2.217750e+000	-2.760750e+000	
+8.925782e+002	1.064455e+002	-2.203500e+000	-2.759625e+000	
+8.935547e+002	1.054689e+002	-2.188125e+000	-2.759625e+000	
+8.945313e+002	1.044924e+002	-2.172375e+000	-2.761125e+000	
+8.955079e+002	1.035158e+002	-2.156625e+000	-2.759250e+000	
+8.964844e+002	1.025392e+002	-2.140875e+000	-2.759625e+000	
+8.974610e+002	1.015627e+002	-2.126250e+000	-2.759625e+000	
+8.984376e+002	1.005861e+002	-2.108250e+000	-2.760000e+000	
+8.994141e+002	9.960956e+001	-2.092875e+000	-2.759250e+000	
+9.003907e+002	9.863300e+001	-2.076000e+000	-2.759625e+000	
+9.013672e+002	9.765643e+001	-2.059125e+000	-2.759625e+000	
+9.023438e+002	9.667987e+001	-2.042250e+000	-2.759625e+000	
+9.033204e+002	9.570331e+001	-2.023875e+000	-2.759625e+000	
+9.042969e+002	9.472675e+001	-2.008500e+000	-2.760000e+000	
+9.052735e+002	9.375018e+001	-1.991250e+000	-2.760000e+000	
+9.062501e+002	9.277362e+001	-1.974375e+000	-2.758875e+000	
+9.072266e+002	9.179706e+001	-1.958250e+000	-2.761125e+000	
+9.082032e+002	9.082050e+001	-1.939125e+000	-2.759250e+000	
+9.091797e+002	8.984393e+001	-1.921875e+000	-2.759250e+000	
+9.101563e+002	8.886737e+001	-1.904625e+000	-2.759625e+000	
+9.111329e+002	8.789081e+001	-1.886250e+000	-2.759625e+000	
+9.121094e+002	8.691425e+001	-1.869000e+000	-2.758500e+000	
+9.130860e+002	8.593768e+001	-1.849875e+000	-2.758875e+000	
+9.140626e+002	8.496112e+001	-1.830375e+000	-2.759250e+000	
+9.150391e+002	8.398456e+001	-1.813500e+000	-2.758875e+000	
+9.160157e+002	8.300800e+001	-1.793625e+000	-2.758875e+000	
+9.169922e+002	8.203143e+001	-1.774500e+000	-2.759625e+000	
+9.179688e+002	8.105487e+001	-1.755375e+000	-2.758500e+000	
+9.189454e+002	8.007831e+001	-1.735500e+000	-2.758125e+000	
+9.199219e+002	7.910175e+001	-1.716375e+000	-2.758500e+000	
+9.208985e+002	7.812518e+001	-1.697625e+000	-2.759250e+000	
+9.218751e+002	7.714862e+001	-1.676625e+000	-2.758875e+000	
+9.228516e+002	7.617206e+001	-1.657125e+000	-2.758125e+000	
+9.238282e+002	7.519550e+001	-1.636500e+000	-2.758500e+000	
+9.248047e+002	7.421893e+001	-1.617375e+000	-2.757000e+000	
+9.257813e+002	7.324237e+001	-1.596000e+000	-2.758500e+000	
+9.267579e+002	7.226581e+001	-1.576125e+000	-2.758875e+000	
+9.277344e+002	7.128925e+001	-1.556250e+000	-2.757750e+000	
+9.287110e+002	7.031268e+001	-1.533750e+000	-2.757000e+000	
+9.296876e+002	6.933612e+001	-1.519875e+000	-2.758125e+000	
+ 	6.835956e+001		-2.758875e+000	
+ 	6.738300e+001		-2.757375e+000	
+ 	6.640643e+001		-2.759250e+000	
+ 	6.542987e+001		-2.758125e+000	
+ 	6.445331e+001		-2.758500e+000	
+ 	6.347675e+001		-2.757000e+000	
+ 	6.250018e+001		-2.757375e+000	
+ 	6.152362e+001		-2.759250e+000	
+ 	6.054706e+001		-2.759625e+000	
+ 	5.957050e+001		-2.758875e+000	
+ 	5.859393e+001		-2.758500e+000	
+ 	5.761737e+001		-2.757375e+000	
+ 	5.664081e+001		-2.759250e+000	
+ 	5.566425e+001		-2.759625e+000	
+ 	5.468768e+001		-2.758125e+000	
+ 	5.371112e+001		-2.757750e+000	
+ 	5.273456e+001		-2.758125e+000	
+ 	5.175800e+001		-2.758125e+000	
+ 	5.078143e+001		-2.758500e+000	
+ 	4.980487e+001		-2.758125e+000	
+ 	4.882831e+001		-2.759625e+000	
+ 	4.785175e+001		-2.758125e+000	
+ 	4.687518e+001		-2.759250e+000	
+ 	4.589862e+001		-2.758875e+000	
+ 	4.492206e+001		-2.758875e+000	
+ 	4.394550e+001		-2.758500e+000	
+ 	4.296893e+001		-2.758125e+000	
+ 	4.199237e+001		-2.757375e+000	
+ 	4.101581e+001		-2.758125e+000	
+ 	4.003925e+001		-2.759250e+000	
+ 	3.906268e+001		-2.758500e+000	
+ 	3.808612e+001		-2.759625e+000	
+ 	3.710956e+001		-2.759625e+000	
+ 	3.613300e+001		-2.758875e+000	
+ 	3.515643e+001		-2.757750e+000	
+ 	3.417987e+001		-2.758875e+000	
+ 	3.320331e+001		-2.757750e+000	
+ 	3.222675e+001		-2.758500e+000	
+ 	3.125018e+001		-2.758500e+000	
+ 	3.027362e+001		-2.759250e+000	
+ 	2.929706e+001		-2.758125e+000	
+ 	2.832050e+001		-2.758500e+000	
+ 	2.734393e+001		-2.759250e+000	
+ 	2.636737e+001		-2.757750e+000	
+ 	2.539081e+001		-2.758875e+000	
+ 	2.441425e+001		-2.760375e+000	
+ 	2.343768e+001		-2.758875e+000	
+ 	2.246112e+001		-2.758125e+000	
+ 	2.148456e+001		-2.758875e+000	
+ 	2.050800e+001		-2.757750e+000	
+ 	1.953143e+001		-2.758500e+000	
+ 	1.855487e+001		-2.758875e+000	
+ 	1.757831e+001		-2.758125e+000	
+ 	1.660175e+001		-2.757750e+000	
+ 	1.562518e+001		-2.760000e+000	
+ 	1.464862e+001		-2.758500e+000	
+ 	1.367206e+001		-2.759250e+000	
+ 	1.269550e+001		-2.759250e+000	
+ 	1.171893e+001		-2.758875e+000	
+ 	1.074237e+001		-2.760375e+000	
+ 	9.765808e+000		-2.758125e+000	
+ 	8.789246e+000		-2.759250e+000	
+ 	7.812683e+000		-2.758500e+000	
+ 	6.836121e+000		-2.758500e+000	
+ 	5.859558e+000		-2.759250e+000	
+ 	4.882996e+000		-2.759250e+000	
+ 	3.906433e+000		-2.759250e+000	
+ 	2.929870e+000		-2.757750e+000	
+ 	1.953307e+000		-2.757375e+000	
+ 	9.767447e-001		-2.759250e+000	
+ 	1.820326e-004		-2.759625e+000	

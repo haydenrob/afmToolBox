@@ -889,7 +889,7 @@ class AFM:
                         to_append, ignore_index=True
                     )
 
-            wlc_summary.to_csv(fh, index=False)
+                wlc_summary.to_csv(fh, index=False)
 
         print(
             f"{len(AFM.fc)} curves processed and {len(AFM.not_fc)} curves discarded."
